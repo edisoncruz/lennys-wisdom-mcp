@@ -7,18 +7,24 @@
 
 An MCP (Model Context Protocol) server providing structured access to wisdom from 20 curated Lenny's Podcast episodes featuring world-class product leaders.
 
-<div align="center">
+---
+
+<p align="center">
   <a href="https://www.lennyspodcast.com/">
-    <img src="./assets/lennys-podcast-logo.jpg" alt="Lenny's Podcast" width="300"/>
+    <img src="https://raw.githubusercontent.com/edisoncruz/lennys-wisdom-mcp/main/assets/lennys-podcast-logo.jpg" alt="Lenny's Podcast" width="300"/>
   </a>
-  
-  <h3>🎙️ Built with transcripts from <a href="https://www.lennyspodcast.com/">Lenny's Podcast</a></h3>
-  
-  <p><strong>Inspired by Lenny Rachitsky's generous decision to make all 320+ podcast transcripts freely available.</strong><br/>
-  <a href="https://www.linkedin.com/posts/lennyrachitsky_here-are-the-full-transcripts-from-all-320-activity-7417011928159629313-am-q/">See his LinkedIn announcement →</a></p>
-  
-  <p><em>This project transforms those transcripts into actionable wisdom accessible directly in your workflow via Claude Desktop.</em></p>
-</div>
+</p>
+
+<h3 align="center">🎙️ Built with transcripts from <a href="https://www.lennyspodcast.com/">Lenny's Podcast</a></h3>
+
+<p align="center">
+  <strong>Inspired by Lenny Rachitsky's generous decision to make all 320+ podcast transcripts freely available.</strong><br/>
+  <a href="https://www.linkedin.com/posts/lennyrachitsky_here-are-the-full-transcripts-from-all-320-activity-7417011928159629313-am-q/">See his LinkedIn announcement →</a>
+</p>
+
+<p align="center">
+  <em>This project transforms those transcripts into actionable wisdom accessible directly in your workflow via Claude Desktop.</em>
+</p>
 
 ---
 

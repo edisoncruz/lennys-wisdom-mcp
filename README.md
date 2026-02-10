@@ -11,7 +11,7 @@ An MCP (Model Context Protocol) server providing structured access to wisdom fro
 
 <p align="center">
   <a href="https://www.lennyspodcast.com/">
-    <img src="https://raw.githubusercontent.com/edisoncruz/lennys-wisdom-mcp/main/assets/lennys-podcast-logo.jpg" alt="Lenny's Podcast" width="300"/>
+    <img src="https://raw.githubusercontent.com/edisoncruz/lennys-wisdom-mcp/main/assets/lennys-podcast-logo_fixed.jpg" alt="Lenny's Podcast" width="300"/>
   </a>
 </p>
 

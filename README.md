@@ -1,367 +1,220 @@
-# Lenny's Wisdom MCP Server - Phase 1 Complete! 🎉
+# Lenny's Wisdom MCP Server
 
-**Date:** January 30, 2026
-**Status:** Foundation Complete, Ready for Extraction (when budget allows)
+[![PyPI version](https://img.shields.io/badge/pypi-v2.0.0-blue)](https://github.com/edisoncruz/lennys-wisdom-mcp)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MCP](https://img.shields.io/badge/MCP-Compatible-green)](https://modelcontextprotocol.io)
 
----
+An MCP (Model Context Protocol) server providing structured access to wisdom from 20 curated Lenny's Podcast episodes featuring world-class product leaders.
 
-## 📋 Quick Summary
-
-We've completed **Phase 1** of building an MCP server that will give Claude users instant access to wisdom from all 298 Lenny's Podcast episodes. Here's what's ready:
-
-✅ **Complete JSON schema design** (6 entity types)
-✅ **Validation tooling** (working Python script)
-✅ **Sample data** (all entities, validated)
-✅ **Extraction pipeline architecture** (7-stage process)
-✅ **Access to all 298 transcripts** (verified and analyzed)
-✅ **Cost estimates** (~$150-$300 for API extraction)
-
-**Next step:** When ready to proceed, we'll build extraction scripts and process episodes (requires Anthropic API account).
+**Date:** February 9, 2026  
+**Status:** MCP with highly adaptable foundation established. The remaining 280 transcripts will be extracted by the end of February 2026.
 
 ---
 
-## 🎯 What We're Building
+## Why This Matters
 
-**Vision:** "Plug into the collective wisdom of 300+ world-class product leaders"
+**Meet users in their workflow.** Instead of searching through hundreds of podcast transcripts, product managers can access curated, actionable wisdom directly in Claude Desktop or ChatGPT—right where they're already working. Ask natural language questions and get specific advice from world-class leaders, with context and timestamps.
 
-An MCP server that provides:
-- **search_wisdom(query)** → Synthesized answers with multi-guest citations
-- **get_framework(name)** → Structured frameworks like "Radical Candor"
-- **ask_expert(guest, question)** → Channel specific guests' philosophy
-- **get_perspectives(topic)** → Multiple viewpoints on topics
-- **solve_situation(situation)** → Step-by-step playbooks
-
-**Why it matters:** Meet users in their workflow (Claude/ChatGPT) with curated wisdom, not just raw transcript search.
+**Example:** "I'm starting a new role as VP Product, what should I do?" → Get curated advice from Deb Liu's 30/60/90 framework, Ben Horowitz on decision-making, Brian Chesky on founder mode, and Claire Hughes Johnson on operations—all synthesized and ready to apply.
 
 ---
 
-## 📊 Data Foundation Designed
+## 🆕 What's New (v2.0)
 
-### Six Entity Types (Schemas Complete)
+**5 New Advanced Tools Added:**
+1. **Situation-Based Playbooks** - Get curated advice for specific PM challenges
+2. **Actionable Insights Filter** - Surface only immediately actionable advice
+3. **Compare Perspectives** - See how different leaders approach the same topic
+4. **Quote Search by Guest** - Deep-dive into a specific leader's philosophy
+5. **Framework Catalog** - Browse all frameworks (DHM, LNO, JTBD, Pre-mortems, etc.)
 
-| Entity | Count Target | Description |
-|--------|-------------|-------------|
-| **Episodes** | 298 | Full episodes with metadata, themes, insights |
-| **Quotes** | ~3,500 | Memorable quotes (12 per episode avg) |
-| **Frameworks** | 50-100 | Named frameworks like Radical Candor, Founder Mode |
-| **Situations** | 30-50 | Playbooks for specific scenarios (e.g., "firing a friend") |
-| **Guests** | 298+ | Guest profiles with expertise and philosophy |
-| **Topics** | 50-100 | Taxonomy for categorization |
+Now with **9 total tools** to access 280+ insights from 20 product leaders!
 
-### Sample Data Created
+## Features
 
-All examples validate against schemas:
-- **Brian Chesky episode** - Founder mode, product management, culture
-- **Radical Candor framework** - Kim Scott's 2x2 feedback matrix
-- **Matt Mochary quote** - "If you haven't fired someone you regretted..."
-- **"Firing a friend" situation** - 5-step playbook with expert perspectives
-- **Brian Chesky guest profile** - Philosophy and signature frameworks
-- **Leadership topic** - Hierarchical topic taxonomy
+### 🔍 Search Wisdom
+Search across 280+ insights from 20 podcast episodes covering product management, growth, leadership, and decision-making.
 
----
+### 📚 Episode Library
 
-## 💰 Cost Estimates (When Ready to Extract)
+**Currently Available (20 Episodes):**
 
-### Full Extraction via Anthropic API
+1. **Brian Chesky** (Airbnb) - Product details obsession, founder mode vs manager mode
+2. **Claire Hughes Johnson** (Stripe COO) - Scaling operations, personal operating principles
+3. **Matt Mochary** (CEO Coach) - High output management, coaching frameworks
+4. **Kim Scott** (Author) - Radical Candor, caring personally while challenging directly
+5. **Gibson Biddle** (Netflix VP Product) - DHM framework, killing two percenters
+6. **Shishir Mehrotra** (Coda CEO) - Black/Blue growth loops, Eigenquestions, reference checks
+7. **Shreyas Doshi** (Stripe/Twitter) - Pre-mortems, LNO framework, high vs low stakes decisions
+8. **Casey Winters** (Pinterest/Grubhub) - Kindle vs Fire growth strategies, upward communication
+9. **Dan Shipper** (Every) - AI-first operations, compounding engineering
+10. **Ben Horowitz** (a16z) - Running towards fear, managerial leverage, making unpopular decisions
+11. **Camille Fournier** (Engineering leadership) - Managing technical teams
+12. **Ami Vora** (Meta/WhatsApp) - Product leadership at scale
+13. **Deb Liu** (Ancestry CEO) - 30/60/90 onboarding, PM your career like a product
+14. **April Dunford** (Positioning expert) - Product positioning frameworks
+15. **Bob Moesta** - Jobs to Be Done framework, Four Forces of Progress
+16. **Annie Duke** - Decision-making under uncertainty, probabilistic thinking
+17. **Bangaly Kaba** (Instagram) - Growth loops, marketplace dynamics
+18. **Bret Taylor** (ex-Salesforce Co-CEO) - Product-led growth, AI integration
+19. **Drew Houston** (Dropbox) - Founder mode, scaling from 0 to billions
+20. **Dharmesh Shah** (HubSpot) - Culture as product, fighting entropy, flash tags
 
-**Using Claude Sonnet 4.5:** ~$306 total
-- Episode metadata: $89
-- Insight extraction: $90
-- Framework detection: $75
-- Cross-referencing: $15
-- Situation synthesis: $37
+### 🛠️ Available Tools (9 Total)
 
-**Using Claude Haiku (cheaper):** ~$150 total
-- Use Haiku for simpler tasks (metadata, basic extraction)
-- Use Sonnet only for complex tasks (frameworks, synthesis)
-- 50% cost savings
+#### Core Search & Discovery
 
-### What This Requires
+1. **search_wisdom(query, limit=10)**
+   - Search across episodes for relevant insights
+   - Example: `search_wisdom("growth strategy")`
 
-1. **Anthropic API account** (separate from Claude.ai subscription)
-   - Sign up at console.anthropic.com
-   - Add payment method
-   - Get API key
+2. **list_guests()**
+   - List all 20 available guests with descriptions
 
-2. **One-time cost** for processing all 298 episodes
-   - Not covered by Claude.ai Max plan
-   - Separate billing
+3. **get_episode(episode_id)**
+   - Get complete episode details
+   - Example: `get_episode("ep-shreyas-doshi")`
 
-### Budget-Friendly Options
+4. **search_by_topic(topic, limit=5)**
+   - Filter by specific topics
+   - Topics: leadership, product-management, growth-marketing, AI-ML, decision-making, hiring, etc.
 
-**Option 1: Phased extraction**
-- Start with 20-30 most valuable episodes (~$20-30)
-- Validate quality
-- Decide whether to continue
+#### Advanced Tools
 
-**Option 2: Manual extraction via Cowork**
-- Use Claude in Cowork mode to manually extract episodes
-- No API costs (covered by Max plan)
-- Very time-consuming (weeks of manual work)
+5. **get_advice_for_situation(situation, limit=10)** 🆕
+   - Get curated advice for specific PM situations
+   - Example: `get_advice_for_situation("I'm starting a new role as VP Product")`
+   - Returns actionable advice from multiple leaders
 
-**Option 3: Hybrid approach**
-- API for bulk processing
-- Manual for quality control and refinement
+6. **get_actionable_insights(topic=None, limit=15)** 🆕
+   - Filter for only immediately actionable insights
+   - Example: `get_actionable_insights("hiring")`
+   - Surfaces practical advice you can implement today
 
----
+7. **compare_perspectives(topic, guests=None)** 🆕
+   - Compare how different leaders approach the same topic
+   - Example: `compare_perspectives("leadership", ["Brian Chesky", "Ben Horowitz"])`
+   - Shows side-by-side philosophical differences
 
-## 📁 Transcripts Ready
+8. **get_quotes_by_guest(guest_name, topic=None, limit=10)** 🆕
+   - Get all quotes from a specific guest
+   - Example: `get_quotes_by_guest("Shreyas Doshi", "decision-making")`
+   - Deep-dive into a particular leader's philosophy
 
-**Found in your folder:** 298 transcript files
+9. **list_frameworks()** 🆕
+   - Catalog all frameworks mentioned across episodes
+   - Returns: DHM, LNO, Pre-mortems, JTBD, Eigenquestions, etc.
+   - Shows which episodes cover each framework
 
-**Format:**
-```
-Brian Chesky (00:00:00):
-Way too many founders apologize for how they want to run the company...
+## Installation
 
-Lenny (00:01:01):
-Today my guest is Brian Chesky...
+### 1. Install Dependencies
+```bash
+cd mcp_server
+pip install -r requirements.txt
 ```
 
-**Quality:** High - clean, well-formatted with timestamps
-**Average size:** ~14-16K words per transcript
-**Perfect for extraction!**
+### 2. Configure Claude Desktop
 
-### Sample Guests
-- Brian Chesky (Airbnb)
-- Kim Scott (Radical Candor)
-- Adam Grant
-- Matt Mochary
-- Patty McCord
-- Claire Hughes Johnson
-- And 292 more...
+Add to your Claude Desktop config file:
 
----
-
-## 🔧 Extraction Pipeline (Designed & Ready)
-
-### 7-Stage Process
-
-```
-1. Preparation        → Organize transcripts
-2. Episode Metadata   → Extract summaries, topics, themes (LLM)
-3. Insight Extraction → Find 8-15 key quotes per episode (LLM)
-4. Framework Detection → Identify & extract frameworks (LLM)
-5. Cross-Referencing  → Link all entities (programmatic + LLM)
-6. Situation Synthesis → Create playbooks from multiple episodes (LLM)
-7. Validation & QA    → Schema validation + quality checks
+**macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+**Windows**: `%APPDATA%/Claude/claude_desktop_config.json`
+```json
+{
+  "mcpServers": {
+    "lennys-wisdom": {
+      "command": "python",
+      "args": ["/absolute/path/to/lennys-wisdom-mcp/lennys_wisdom/server.py"]
+    }
+  }
+}
 ```
 
-### Technology Stack
+Replace `/absolute/path/to/` with the actual path on your system.
 
-**Core:**
-- Python 3.10+
-- Claude API (Anthropic SDK)
-- Pydantic for data validation
-- JSON files (can migrate to SQLite later)
+### 3. Restart Claude Desktop
 
-**Tools:**
-- JSON Schema validators
-- Validation CLI script
-- Extraction scripts (to be built)
-- MCP server (FastMCP)
+Quit and reopen Claude Desktop for changes to take effect.
 
----
+## Usage Examples
 
-## 🚀 Next Steps (When You Resume)
+Once configured, you can use these tools in Claude Desktop:
 
-### Immediate Next Session
+### Basic Search & Discovery
+```
+"Search Lenny's wisdom for insights on product-market fit"
+→ Uses search_wisdom() tool
 
-1. **Set up Anthropic API account**
-   - console.anthropic.com
-   - Add payment method
-   - Get API key
-   - Budget $150-300
+"Show me all episodes about hiring"
+→ Uses search_by_topic() tool
 
-2. **Build extraction scripts**
-   - Episode metadata extractor
-   - Insight/quote extractor
-   - Framework detector
-   - Test on 2-3 sample episodes
+"Get the full Shreyas Doshi episode"
+→ Uses get_episode() tool
 
-3. **Validate pipeline**
-   - Run on Brian Chesky, Kim Scott, Matt Mochary
-   - Check quality
-   - Refine prompts
-   - Measure actual costs
+"List all available guests"
+→ Uses list_guests() tool
+```
 
-### Following Sessions
+### 🆕 Advanced Tools
+```
+"I'm joining a new company as VP Product, what should I do?"
+→ Uses get_advice_for_situation() tool
+→ Returns curated advice from multiple leaders
 
-4. **Bulk extraction** (5-8 sessions)
-   - Process all 298 episodes
-   - Extract ~3,500 quotes
-   - Detect ~80 frameworks
-   - Build cross-reference indices
+"Show me only actionable insights about hiring"
+→ Uses get_actionable_insights() tool
+→ Filters for immediately implementable advice
 
-5. **Situation synthesis** (3-5 sessions)
-   - Create 30-50 playbooks
-   - Synthesize from multiple episodes
-   - Human review high-value content
+"How do Brian Chesky and Ben Horowitz approach leadership differently?"
+→ Uses compare_perspectives() tool
+→ Side-by-side comparison of philosophies
 
-6. **MCP Server** (3-5 sessions)
-   - Implement 5 core tools
-   - Test with Claude Desktop
-   - Deploy to hosting
+"What are all of Shreyas Doshi's quotes about decision-making?"
+→ Uses get_quotes_by_guest() tool
+→ Deep-dive into specific leader's thinking
 
-7. **Launch!** (2-3 sessions)
-   - Landing page
-   - Documentation
-   - Ship to community
+"What frameworks are available across all episodes?"
+→ Uses list_frameworks() tool
+→ Catalog of DHM, LNO, JTBD, Pre-mortems, etc.
+```
 
----
+## Data Structure
 
-## 📝 What's Been Documented
+Each episode includes:
+- **15 key insights** with verbatim quotes and timestamps
+- **3-4 key themes** with relevance scores
+- **Topics**: leadership, product-management, growth-marketing, AI-ML, etc.
+- **Frameworks mentioned**: Pre-mortems, LNO, DHM, JTBD, etc.
+- **Actionable flags**: Indicates which insights are immediately applicable
 
-### Key Documents Created (in this folder)
+## Technical Details
 
-1. **This README** - Project overview and status
-2. **Schema Design** - Complete data structure documentation
-3. **Extraction Pipeline** - Technical architecture
-4. **Validation Script** - Data quality checks
+- **Framework**: FastMCP
+- **Search**: Simple keyword matching with relevance scoring
+- **Output**: Markdown-formatted responses
+- **Data Source**: 20 manually extracted JSON files (~320,000 words processed)
 
-### Schemas Created
+## Extraction Metadata
 
-All in `schemas/` folder:
-- `episode.schema.json` - Episode structure
-- `framework.schema.json` - Framework structure
-- `quote.schema.json` - Quote structure
-- `situation.schema.json` - Situation playbook structure
-- `guest.schema.json` - Guest profile structure
-- `topic.schema.json` - Topic taxonomy structure
+- **Extracted**: February 2026
+- **LLM Model**: Claude Sonnet 4.5
+- **Total Insights**: 280+ actionable insights
+- **Total Frameworks**: 25+ named frameworks
+- **Average Episode**: 15,000 words, 15 insights, 4 themes
 
-### Sample Data
+## Contributing
 
-All in `sample_data/` folder with subdirectories:
-- `episodes/` - Brian Chesky example
-- `frameworks/` - Radical Candor example
-- `quotes/` - Matt Mochary example
-- `situations/` - "Firing a friend" playbook
-- `guests/` - Brian Chesky profile
-- `topics/` - Leadership taxonomy
+Contributions are welcome! Please feel free to submit a Pull Request.
 
----
+## License
 
-## 🎯 Success Criteria
+This MCP server provides access to curated insights from Lenny's Podcast. All original content is copyright of Lenny Rachitsky and respective guests.
 
-### Phase 1 ✅ COMPLETE
-- [x] JSON schemas finalized
-- [x] Validation tooling working
-- [x] Sample data created and validated
-- [x] Extraction pipeline designed
-- [x] Access to all transcripts
+## Additional Resources
 
-### Phase 2 (Next: Extraction)
-- [ ] Anthropic API account set up
-- [ ] Extraction scripts built
-- [ ] All 298 episodes extracted
-- [ ] 50+ frameworks documented
-- [ ] 30+ situation playbooks created
-- [ ] Quality validation passed
-
-### Phase 3 (MCP Server)
-- [ ] 5 core MCP tools implemented
-- [ ] Deployed and accessible
-- [ ] Claude Desktop integration working
-
-### Phase 4 (Launch)
-- [ ] Landing page live
-- [ ] Documentation complete
-- [ ] Community feedback
-- [ ] GitHub repository public
-
----
-
-## 💡 Key Design Decisions
-
-### Why JSON Files (Not SQLite)?
-- Easier to inspect and debug
-- Version control friendly (can track in git)
-- Simple extraction pipeline
-- Can migrate to SQLite in Phase 2
-
-### Why Two-Pass Framework Extraction?
-- Pass 1: Detect presence (cheap)
-- Pass 2: Full extraction (expensive)
-- Saves ~50% on framework extraction costs
-
-### Why Situation Synthesis Last?
-- Requires multiple episodes as input
-- Uses long-context Claude
-- High-value content worth manual review
-- Can leverage all extracted data
-
----
-
-## 📞 When You Resume
-
-**To pick up where we left off:**
-
-1. Open Cowork mode
-2. Reference this README
-3. Say: "Let's continue with Lenny's Wisdom MCP. I'm ready to set up the API and start extraction."
-
-**What to have ready:**
-- Anthropic API key (from console.anthropic.com)
-- Budget allocation ($150-300)
-- Time for 3-5 sessions to build extraction scripts
-
-**What I'll do:**
-- Build extraction scripts
-- Test on sample episodes
-- Process all 298 episodes
-- Generate complete dataset
-- Build MCP server
-
----
-
-## 🎉 What We Accomplished (Phase 1)
-
-In this session, we:
-
-1. ✅ Designed comprehensive JSON schemas (6 entity types)
-2. ✅ Created JSON Schema validators
-3. ✅ Built validation CLI tool with beautiful output
-4. ✅ Generated realistic sample data for all entities
-5. ✅ Validated all samples successfully (6/6 pass)
-6. ✅ Documented complete extraction pipeline
-7. ✅ Estimated costs and timeline
-8. ✅ Accessed and analyzed all 298 transcripts
-9. ✅ Created comprehensive project documentation
-
-**Phase 1 foundation is solid!** We're ready to extract when you're ready to invest in the API.
-
----
-
-## 🤔 Questions to Consider
-
-Before resuming:
-
-1. **Budget:** Comfortable with $150-300 one-time API cost?
-2. **Timing:** Want full extraction (298 episodes) or start small (20-30)?
-3. **Approach:** Bulk API extraction or manual via Cowork?
-4. **Hosting:** GitHub public repo or keep private?
-5. **Licensing:** MIT license for the data and code?
-
----
-
-## 📚 Additional Resources
-
-- **MCP Documentation:** modelcontextprotocol.io
-- **Anthropic API Docs:** docs.anthropic.com
-- **FastMCP Library:** github.com/jlowin/fastmcp
-- **Lenny's Podcast:** lennyspodcast.com
-
----
-
-**Project Status:** Phase 1 Complete ✅
-**Next Phase:** Extraction (paused until February, API setup)
-**Timeline:** 2-4 weeks from API setup to launch
-**Total Budget:** $150-300 (API) + $0-7/month (hosting)
-
-Looking forward to building this with you in February! 🚀
-
----
-
-*Created: January 30, 2026*
-*By: Claude (Cowork Mode)*
-*For: Edison Cruz (edisoncruz@gmail.com)*
+- [Lenny's Newsletter](https://www.lennysnewsletter.com/)
+- [Lenny's Podcast](https://www.lennyspodcast.com/)
+- [Model Context Protocol](https://modelcontextprotocol.io)
+- [FastMCP Framework](https://gofastmcp.com)

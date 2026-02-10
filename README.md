@@ -9,15 +9,15 @@ An MCP (Model Context Protocol) server providing structured access to wisdom fro
 
 <div align="center">
   <a href="https://www.lennyspodcast.com/">
-    <img src="https://assets-global.website-files.com/64e63db4e82d0e19f4ca9e61/650f8e7ea8e0efce4e05df2a_Lenny's%20Podcast%20Artwork.jpg" alt="Lenny's Podcast" width="300"/>
+    <img src="./assets/lennys-podcast-logo.jpg" alt="Lenny's Podcast" width="300"/>
   </a>
   
-  ### 🎙️ Built with transcripts from [Lenny's Podcast](https://www.lennyspodcast.com/)
+  <h3>🎙️ Built with transcripts from <a href="https://www.lennyspodcast.com/">Lenny's Podcast</a></h3>
   
-  **Inspired by Lenny Rachitsky's generous decision to make all 320+ podcast transcripts freely available.**  
-  [See his LinkedIn announcement →](https://www.linkedin.com/posts/lennyrachitsky_here-are-the-full-transcripts-from-all-320-activity-7417011928159629313-am-q/)
+  <p><strong>Inspired by Lenny Rachitsky's generous decision to make all 320+ podcast transcripts freely available.</strong><br/>
+  <a href="https://www.linkedin.com/posts/lennyrachitsky_here-are-the-full-transcripts-from-all-320-activity-7417011928159629313-am-q/">See his LinkedIn announcement →</a></p>
   
-  *This project transforms those transcripts into actionable wisdom accessible directly in your workflow via Claude Desktop.*
+  <p><em>This project transforms those transcripts into actionable wisdom accessible directly in your workflow via Claude Desktop.</em></p>
 </div>
 
 ---
@@ -26,13 +26,6 @@ An MCP (Model Context Protocol) server providing structured access to wisdom fro
 **Status:** MCP with highly adaptable foundation established. The remaining 280 transcripts will be extracted by the end of February 2026.
 
 ---
-An MCP (Model Context Protocol) server providing structured access to wisdom from 20 curated Lenny's Podcast episodes featuring world-class product leaders.
-
-**Date:** February 9, 2026  
-**Status:** MCP with highly adaptable foundation established. The remaining 280 transcripts will be extracted by the end of February 2026.
-
----
-
 ## Why This Matters
 
 **Meet users in their workflow.** Instead of searching through hundreds of podcast transcripts, product managers can access curated, actionable wisdom directly in Claude Desktop or ChatGPT—right where they're already working. Ask natural language questions and get specific advice from world-class leaders, with context and timestamps.

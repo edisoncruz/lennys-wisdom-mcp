@@ -17,9 +17,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/lennys-wisdom-mcp"
-Repository = "https://github.com/yourusername/lennys-wisdom-mcp"
-Documentation = "https://github.com/yourusername/lennys-wisdom-mcp#readme"
+Homepage = "https://github.com/edisoncruz/lennys-wisdom-mcp"
+Repository = "https://github.com/edisoncruz/lennys-wisdom-mcp"
+Documentation = "https://github.com/edisoncruz/lennys-wisdom-mcp#readme"
 
 [project.scripts]
 lennys-wisdom = "lennys_wisdom.__main__:main"

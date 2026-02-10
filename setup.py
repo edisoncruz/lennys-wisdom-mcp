@@ -13,7 +13,7 @@ setup(
     description="MCP server providing structured access to wisdom from Lenny's Podcast",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/lennys-wisdom-mcp",  # Update when you create the repo
+    url="https://github.com/edisoncruz/lennys-wisdom-mcp",
     packages=find_packages(),
     package_data={
         'lennys_wisdom': ['data/episodes/*.json'],
@@ -21,7 +21,7 @@ setup(
     include_package_data=True,
     classifiers=[
         "Development Status :: 4 - Beta",
-        "Intended Audience :: Developers",
+        "Intended Audience :: Product Teams",
         "Topic :: Software Development :: Libraries :: Python Modules",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",

@@ -1,0 +1,194 @@
+{
+  "id": "ep-dan-shipper",
+  "guest_id": "guest-dan-shipper",
+  "guest_name": "Dan Shipper",
+  "title": "Operating an AI-First Company: Insights from Every's Bleeding Edge",
+  "description": "Dan Shipper, CEO of Every, shares how his 15-person team ships 4 products and a daily newsletter using AI - including hiring an AI operations lead, compounding engineering, and why Claude Code is underrated for non-technical people.",
+  "summary": "Dan discusses Every's AI-first operating model: hiring an AI operations lead to automate workflows, compounding engineering (each unit of work makes the next easier), no engineers writing code manually, his AI tool stack (o3 for memory, Claude Opus 4 for judgment), and hot takes including why AI may reshore American jobs and his definition of AGI (when agents run indefinitely profitably).",
+  "topics": [
+    "AI-ML",
+    "operations",
+    "product-management",
+    "personal-productivity",
+    "automation",
+    "future-of-work"
+  ],
+  "key_themes": [
+    {
+      "theme": "AI Operations Lead",
+      "description": "Dedicated person (Katie Parrott) who identifies repetitive work and builds prompts/workflows to automate it for everyone",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "Compounding Engineering",
+      "description": "Every unit of work should make the next unit easier - build tooling that accelerates future work",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "Claude Code for Non-Coders",
+      "description": "Command-line agents are underrated for non-technical people - can process local files autonomously for 20-30 minutes",
+      "relevance_score": 0.90
+    },
+    {
+      "theme": "No Manual Coding",
+      "description": "15-person team ships 4 products without engineers writing code - all using Claude Code and agents",
+      "relevance_score": 0.88
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-dan-shipper-001",
+      "quote": "We have a head of AI operations. She's just constantly building prompts and building workflows that I and everyone else on the team are just automating as much as possible.",
+      "timestamp": "00:00:07",
+      "context": "Opening description of how Every operates",
+      "insight": "Hire an AI operations lead who sits outside day-to-day work and automates repetitive tasks for entire team",
+      "topics": ["operations", "AI-ML"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-002",
+      "quote": "We have this guy, he made a year's worth of progress in two months because every time I sat down with him and told him, 'Here's how you tell a story, here's how you think about a headline,' he recorded all of it, put it into a prompt, and he never made the same mistake twice.",
+      "timestamp": "00:00:20",
+      "context": "Example of junior person accelerated by AI",
+      "insight": "Junior people using AI can progress extraordinarily fast by codifying feedback into prompts",
+      "topics": ["AI-ML", "learning"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-003",
+      "quote": "No one is manually coding anymore. Organizations like ours, people who are playing at the edge, we're doing things that, in three years, everybody else is going to be doing.",
+      "timestamp": "00:00:46",
+      "context": "Describing Every's engineering approach",
+      "insight": "Bleeding-edge companies have stopped hand-coding - using agents and Claude Code for all development",
+      "topics": ["AI-ML", "engineering"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-004",
+      "quote": "I think people are truly sleeping on how good Claude Code is for non-coders. You can download all your meeting notes and just be like, 'Tell me all the time that I subtly avoided conflict.' And it goes and reads each file.",
+      "timestamp": "00:07:10",
+      "context": "Hot take about Claude Code for non-technical users",
+      "insight": "Claude Code (command-line agents) massively underrated for non-coders - can process local files autonomously",
+      "topics": ["AI-ML", "personal-productivity"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-005",
+      "quote": "I had Claude read the first three chapters of War and Peace and pull out all of those descriptions, and then make a guide for itself for how to do character descriptions like Tolstoy.",
+      "timestamp": "00:10:36",
+      "context": "Example of using Claude Code to learn from great writers",
+      "insight": "Use agents to analyze books/documents and create style guides for your own work",
+      "topics": ["AI-ML", "writing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-006",
+      "quote": "A good definition of AGI is when does it become economically profitable for people to run agents indefinitely? When you'd rather have it do that than just wait for you to tell it what to do next.",
+      "timestamp": "00:17:06",
+      "context": "Defining AGI through the lens of autonomy and economics",
+      "insight": "AGI = when it's profitable to keep agents running indefinitely, like a teenager living their life",
+      "topics": ["AI-ML", "future-of-work"],
+      "actionable": false
+    },
+    {
+      "id": "insight-ep-dan-shipper-007",
+      "quote": "I think AI may be one of the biggest force for reshoring American jobs. What cheap intelligence does is it makes expensive services affordable for small companies and individuals. So it stimulates demand.",
+      "timestamp": "00:04:55",
+      "context": "Hot take on AI's impact on employment",
+      "insight": "AI may reshore jobs by making services affordable (stimulating demand) and making US workers more productive with AI tools",
+      "topics": ["AI-ML", "economics"],
+      "actionable": false
+    },
+    {
+      "id": "insight-ep-dan-shipper-008",
+      "quote": "It's really hard to... If you're working in a job all day, you're fighting fires. I don't want to spend a bunch of time building some no-code automation. Having an AI operations lead lets you basically identify those things and have them solved without people who are doing the work actually having to take time to do it.",
+      "timestamp": "00:30:44",
+      "context": "Why AI operations role is necessary",
+      "insight": "People won't automate their own work when busy - need dedicated person to build automations for them",
+      "topics": ["operations", "automation"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-009",
+      "quote": "One of my big goals for us last quarter was don't repeat yourself. So I don't want to ever say the same thing in a meeting twice. We've started to codify all of that into prompts that basically push my taste out to the edge.",
+      "timestamp": "00:24:48",
+      "context": "Using AI to scale leadership feedback",
+      "insight": "Codify your feedback and taste into prompts so you never repeat yourself - pushes your judgment to the edges",
+      "topics": ["leadership", "AI-ML"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-010",
+      "quote": "Opus is at a point where you can give it a style guide and a prompt, and it will go through anything you're writing, and copy edit it. The trick is you also have to get people to actually use it.",
+      "timestamp": "00:32:24",
+      "context": "Building internal AI tools",
+      "insight": "Building the automation is half the battle - getting people to actually use it requires behavioral change",
+      "topics": ["AI-ML", "change-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-011",
+      "quote": "Nityesh built a Claude Code command that just uses that prompt, and checks through the entire code base for all the copy edits, and then creates a pull request on GitHub. Suddenly your engineering team is writing marketing copy in the style you want.",
+      "timestamp": "00:35:04",
+      "context": "Example of automating copy editing in codebase",
+      "insight": "Codify your style into automated PR reviews - engineers write copy in your voice without bottlenecking writers",
+      "topics": ["automation", "operations"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-012",
+      "quote": "My first thing that I open is o3. What it has that really makes a difference from Claude is it has memory. I've spent so much time yelling at ChatGPT about, 'I need my writing to be punchy and concise.' And it just knows that now.",
+      "timestamp": "00:35:51",
+      "context": "Explaining his AI tool stack",
+      "insight": "ChatGPT's memory feature means it knows your preferences - makes it better over time for personalized tasks",
+      "topics": ["AI-ML", "personal-productivity"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-013",
+      "quote": "Claude Opus 4 can judge whether writing is any good. Earlier versions would always give it a B+, then A-, then A. Opus 4 has that gut sense. Now it can judge its own work and improve before it comes back to you.",
+      "timestamp": "00:37:44",
+      "context": "Explaining why Opus 4 is a breakthrough",
+      "insight": "Opus 4 can genuinely judge quality (not just grade inflation) - enables agents to self-improve before showing you work",
+      "topics": ["AI-ML", "automation"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-014",
+      "quote": "They invented the idea of compounding engineering. For every unit of work, you should make the next unit of work easier to do.",
+      "timestamp": "00:41:58",
+      "context": "Describing how the Cora team operates",
+      "insight": "Compounding engineering: each task should build tooling that makes future similar tasks easier",
+      "topics": ["engineering", "productivity"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-dan-shipper-015",
+      "quote": "The business you're building, the team you're building, the way you're operating is the very bleeding edge of how companies are trying to operate in this AI era.",
+      "timestamp": "00:00:00",
+      "context": "Lenny's observation about Every",
+      "insight": "Companies at the bleeding edge (like Every) show what everyone will be doing in 3 years",
+      "topics": ["AI-ML", "future-of-work"],
+      "actionable": false
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-compounding-engineering-001",
+    "framework-ai-operations-001"
+  ],
+  "situations_addressed": [
+    "situation-building-ai-first-company",
+    "situation-automating-workflows",
+    "situation-scaling-without-headcount"
+  ],
+  "quotes_extracted": 15,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Dan Shipper.txt",
+  "transcript_word_count": 18928,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T21:30:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-sonnet-4.5",
+    "human_reviewed": false
+  }
+}

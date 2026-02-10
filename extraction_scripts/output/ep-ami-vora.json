@@ -1,0 +1,244 @@
+{
+  "id": "ep-ami-vora",
+  "guest_id": "guest-ami-vora",
+  "guest_name": "Ami Vora",
+  "title": "Fascinating: Curiosity, Metaphors, and Execution at Scale",
+  "description": "Ami Vora, Chief Product Officer at Faire and former head of product for Facebook Ads and WhatsApp at Meta, shares lessons on building product strategy, disagreeing with conviction, scaling teams through metaphors and narrative, and why execution beats strategy every time.",
+  "summary": "Ami discusses how curiosity and genuine openness to disagreement transformed her leadership, the power of metaphors (dinosaur brain, hill climb, putting on the coat of the job) to align teams and make decisions, why execution matters more than perfect strategy, how to set up effective product reviews, and navigating her path from temp at Facebook to leading products at scale. She emphasizes the importance of talking to customers, building complementary teams, and being authentic about the messy reality of leadership.",
+  "topics": [
+    "product-management",
+    "strategy",
+    "leadership",
+    "team-dynamics",
+    "product-scaling",
+    "decision-making",
+    "product-reviews",
+    "metrics",
+    "execution",
+    "communication"
+  ],
+  "key_themes": [
+    {
+      "theme": "Curiosity Over Correctness",
+      "description": "Sublimate ego and replace the need to be right with genuine curiosity about different perspectives, creating better outcomes and stronger relationships",
+      "relevance_score": 0.96
+    },
+    {
+      "theme": "Metaphors and Narrative Drive Alignment",
+      "description": "Use metaphors and shared stories to rally teams and create consistent product decisions without needing to dictate every detail",
+      "relevance_score": 0.94
+    },
+    {
+      "theme": "Execution Eats Strategy for Breakfast",
+      "description": "Great execution with good-enough strategy beats perfect strategy with poor execution - most of your time should be on delivery, not planning",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "Product Reviews as Principle-Setting, Not Decision-Making",
+      "description": "Use product reviews to calibrate teams on principles and decision-making frameworks rather than deciding every individual question",
+      "relevance_score": 0.90
+    },
+    {
+      "theme": "Decouple Goals to Avoid Toddler Soccer",
+      "description": "Give different teams different goals that ladder up to company outcomes, preventing everyone from chasing the same metric",
+      "relevance_score": 0.88
+    },
+    {
+      "theme": "Building Emulators of Great Leaders",
+      "description": "Create mental models of different leaders' approaches to problem-solving, giving you multiple toolkits to draw from",
+      "relevance_score": 0.86
+    },
+    {
+      "theme": "Leadership at Scale Requires Suboptimal Decisions",
+      "description": "As you get more senior, you only see unsolvable problems - your job is to choose the least bad option and explain the principles behind it",
+      "relevance_score": 0.84
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-ami-vora-001",
+      "quote": "The hard part is sublimating your ego a little bit and saying it's more important to get to the outcome than to be right.",
+      "timestamp": "00:00:19",
+      "context": "Ami responding to feedback about how she handles profound disagreements with colleagues like Boz at Meta",
+      "insight": "Shifting from ego-driven need to be right to outcome-driven collaboration fundamentally improves decision quality and team relationships",
+      "actionable_advice": "When you feel the urge to prove you're right, pause and ask: what information do they have that I don't? This reframe turns disagreement into learning",
+      "topics": ["leadership", "team-dynamics"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-002",
+      "quote": "Fascinating, you have to tell me more why you think that. And she meant it from the core of her being. She saw this schism and rather than reacting as if it was a threat, she reacted with the most genuine and profound curiosity.",
+      "timestamp": "00:10:18",
+      "context": "Boz (Meta CTO) describing how Ami handled disagreement - from a reference check recommendation",
+      "insight": "Genuine curiosity disarms defensiveness and creates psychological safety, allowing people to share different perspectives without fear",
+      "actionable_advice": "Practice using the word 'fascinating' when you hear something that surprises you - it signals openness rather than rejection",
+      "topics": ["leadership", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-003",
+      "quote": "When you just take a pause, your body calms down, your mind gets a chance to breathe a little bit, and then your response is going to be better.",
+      "timestamp": "00:16:52",
+      "context": "Ami explaining how to manage visceral reactions to disagreement in the moment",
+      "insight": "A simple pause converts a lizard-brain defensive reaction into a thoughtful response, dramatically improving conversation quality",
+      "actionable_advice": "Build in a physical pause habit when you feel triggered - count to 3, take a breath, or ask a clarifying question before responding",
+      "topics": ["leadership", "team-dynamics"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-004",
+      "quote": "If we all agree that the feeling of something should be, I'm sitting in Dolores Park with my friends on a sunny Saturday, then people will just naturally build something that feels more consistent.",
+      "timestamp": "00:30:18",
+      "context": "Explaining how a shared metaphor and feeling guide product design decisions at scale without constant executive direction",
+      "insight": "Metaphors and shared emotional narratives scale decision-making - teams don't need approval for every choice when they share a guiding feeling",
+      "actionable_advice": "When launching a new product or feature, identify the feeling you want users to have, find an analogy for that feeling, and share it with your team",
+      "topics": ["product-management", "strategy", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-005",
+      "quote": "For me, the hill climb is all about the difference between a local optimum and a global optimum... the thing that gets me through the valley is remembering what the summit feels like.",
+      "timestamp": "00:27:51",
+      "context": "Ami's metaphor for major strategic transitions that require short-term sacrifice for long-term gain",
+      "insight": "Major strategic pivots feel like failure in the valley - connecting teams to the vision of the summit helps them persevere through difficult transitions",
+      "actionable_advice": "When proposing major changes that will hurt near-term metrics, paint a vivid picture of what winning looks like on the other side",
+      "topics": ["strategy", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-006",
+      "quote": "Assume that executives have a little tiny dinosaur brain... the best service you can do is actually do the work of making a recommendation.",
+      "timestamp": "00:17:59",
+      "context": "Ami's mental model for product reviews - executives are constrained by cognitive bandwidth and need clear recommendations, not data dumps",
+      "insight": "Senior leaders have less capacity for depth on each topic - your job as an IC or manager is to synthesize and recommend, not overwhelm with information",
+      "actionable_advice": "Before any presentation to leadership, cut everything by 80% and lead with your recommendation. Let them ask for details if needed",
+      "topics": ["product-management", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-007",
+      "quote": "My manager owns context, I own the recommendation... if what they're doing is complimentary to me, then I can learn from everyone.",
+      "timestamp": "00:19:42",
+      "context": "Ami's mental model for complementary roles between product leaders and their managers in product reviews",
+      "insight": "Clarity on complementary roles prevents role confusion - managers bring broad context, PMs bring deep expertise, and they partner on decisions",
+      "actionable_advice": "With your manager or executive sponsor, explicitly agree on what each of you owns: you own the deep dive and recommendation, they own connecting it to broader context",
+      "topics": ["product-management", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-008",
+      "quote": "Product reviews should be ways to calibrate on principles... walk out with principles about how to make these decisions in the future so that you don't have to come back to product review.",
+      "timestamp": "00:21:04",
+      "context": "Ami on how to structure product reviews for leverage and scaling - the goal is teaching decision-making frameworks, not deciding everything",
+      "insight": "Product reviews are most powerful as a teaching tool for principles rather than approval gates for every decision",
+      "actionable_advice": "Before your next product review, explicitly state: here are the decision-making principles we should use going forward. Then you can make similar decisions without needing approval",
+      "topics": ["product-management", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-009",
+      "quote": "Execution eats strategy for breakfast... customers don't care about your fancy strategies and your five-year plan. They care about the product that's in their hands.",
+      "timestamp": "00:37:58",
+      "context": "Ami's core belief about where to invest time and energy as a product leader",
+      "insight": "Strategy is necessary but not sufficient - execution is where strategy meets customer reality and creates actual value",
+      "actionable_advice": "Do a time audit on your next week: aim for 20% strategy thinking, 80% execution, customer understanding, and unblocking. Adjust if you're backwards",
+      "topics": ["strategy", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-010",
+      "quote": "You have great strategy, perfect strategy but poor execution, you don't win... whereas when you have a pretty good strategy and perfect execution, you know your execution was great so you learn what to improve your strategy.",
+      "timestamp": "00:39:03",
+      "context": "Ami explaining the learning advantage of execution-first approach - you can iterate to perfect strategy while poor execution leaves you guessing",
+      "insight": "Execution-first is a superior learning machine - perfect execution reveals whether your strategy is right and guides improvements",
+      "actionable_advice": "When debating strategy vs execution priorities, commit to action with good-enough strategy rather than delaying launch for strategy perfection",
+      "topics": ["strategy", "execution"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-011",
+      "quote": "I try to just put on the coat of the job... What would it be like if I were doing this job? What would I think about on my commute? Who would I have lunch with? Do I like them?",
+      "timestamp": "00:09:03",
+      "context": "Ami's method for evaluating career moves - assessing emotional/cultural fit rather than just spreadsheet metrics",
+      "insight": "The emotional response to a role predicts success better than spreadsheet analysis - put yourself in the experience to feel it",
+      "actionable_advice": "For your next big decision (role, project, team), spend time imagining what daily life would feel like. Does it energize or drain you?",
+      "topics": ["leadership", "decision-making"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-012",
+      "quote": "Toddler soccer... everybody just runs to the same surface or the same customer set or the same exact product... instead detangle, okay, let's think about all the things they're going to need in their journey. Let's detangle it so that every team has a different goal.",
+      "timestamp": "00:57:18",
+      "context": "Ami's metaphor for what happens when all teams chase the same metric like GMV - they collide and trip over each other",
+      "insight": "Single company-wide metrics create coordination failures - decompose them into complementary team-level metrics that each address different customer needs",
+      "actionable_advice": "Map your company's value chain (awareness → acquisition → retention → monetization). Assign each team to different parts so they have room to move",
+      "topics": ["metrics", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-013",
+      "quote": "As you get more senior, the only problems you'll see are ones that are fundamentally unsolvable because otherwise someone would've solved it... you're choosing which branch of suboptimal you're going to put your name on.",
+      "timestamp": "01:01:59",
+      "context": "Ami on the reality of senior leadership - reframing apparent incompetence as necessary tradeoff management",
+      "insight": "Senior leaders only see hard problems with no good solutions - excellence is choosing the least bad option and explaining the principles behind it",
+      "actionable_advice": "Don't expect perfect solutions as a senior leader. Get comfortable with tradeoffs. Make the call, explain your reasoning, and move forward",
+      "topics": ["leadership", "decision-making"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-014",
+      "quote": "I built an emulator for them... okay, I see this thing. I don't know how to solve this problem. How would Eric describe this? I've tried to build one for Boz... I can load this other person into my head and how would they approach it.",
+      "timestamp": "00:30:18",
+      "context": "Ami's technique for learning from great leaders - building mental models of how they think about problems",
+      "insight": "Creating mental models of how different great leaders solve problems gives you multiple toolkits to draw from when you're stuck",
+      "actionable_advice": "Pick 2-3 leaders you admire. For each one, identify their signature approach: Eric = narrative/metaphor, Boz = principles/frameworks, Rob = data. Use their lenses on your problems",
+      "topics": ["leadership", "learning"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-ami-vora-015",
+      "quote": "Every person there knows something that you don't know yet... discover the thing that they know that you don't know and it becomes just a little bit of uncovering rather than I already knew everything.",
+      "timestamp": "00:12:45",
+      "context": "Ami explaining the shift from ego-driven knowing everything to learning-driven discovery in every meeting",
+      "insight": "Assuming everyone has something to teach you makes every meeting valuable and converts status anxiety into genuine curiosity",
+      "actionable_advice": "Before your next meeting with someone, write down: what might this person know that I don't? Go in looking to discover it",
+      "topics": ["leadership", "learning"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-dinosaur-brain-mental-model",
+    "framework-hill-climb-metaphor",
+    "framework-putting-on-coat-of-job",
+    "framework-toddler-soccer-org-design",
+    "framework-leader-emulator-building"
+  ],
+  "situations_addressed": [
+    "situation-handling-disagreement-with-executives",
+    "situation-scaling-product-reviews",
+    "situation-making-strategic-transitions",
+    "situation-moving-to-new-company",
+    "situation-setting-team-goals",
+    "situation-leading-large-teams",
+    "situation-career-development-for-women",
+    "situation-evaluating-career-moves"
+  ],
+  "quotes_extracted": 15,
+  "transcript_available": true,
+  "transcript_path": "/sessions/nifty-charming-babbage/mnt/Lenny's Podcast Transcripts - through 2026-01-12/Ami Vora.txt",
+  "transcript_word_count": 13850,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T20:35:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-haiku-4-5-20251001",
+    "human_reviewed": false,
+    "focus_areas": [
+      "Product management at scale",
+      "0-to-1 vs scaling products",
+      "Product strategy and execution",
+      "Working with executives",
+      "Team alignment through metaphor",
+      "Leadership development"
+    ]
+  }
+}

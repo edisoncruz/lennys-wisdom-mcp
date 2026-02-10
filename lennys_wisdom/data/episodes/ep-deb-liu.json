@@ -1,0 +1,226 @@
+{
+  "id": "ep-deb-liu",
+  "guest_id": "guest-deb-liu",
+  "guest_name": "Deb Liu",
+  "title": "Building Billion-Dollar Products and Scaling Teams at Scale",
+  "description": "Deb Liu, CEO of Ancestry and former Facebook VP, shares insights on building zero-to-one products within large companies, scaling marketplace platforms to 1B+ users, navigating career pivots, and leadership strategies for introverts and women in tech.",
+  "summary": "Deb discusses her journey building Facebook Marketplace (1B+ users), mobile ads platform, and payments at Facebook, plus her approach to career management, resilience through failure, marketplace strategy, women in tech leadership, and the importance of home/life balance in career success. She emphasizes always learning, managing your career like a product, turning failures into stepping stones, and creating inclusive workplaces.",
+  "topics": [
+    "career-strategy",
+    "product-management",
+    "leadership",
+    "marketplace-products",
+    "scaling-teams",
+    "women-in-tech",
+    "career-pivots",
+    "zero-to-one",
+    "resilience",
+    "growth-strategy",
+    "inclusive-leadership",
+    "introversion-in-business"
+  ],
+  "key_themes": [
+    {
+      "theme": "Always Be Learning vs Impact Trade-off",
+      "description": "Balance continuous learning with having impact - both are necessary for career growth across diverse roles",
+      "relevance_score": 0.98
+    },
+    {
+      "theme": "PM Your Career Like You PM a Product",
+      "description": "Apply product management discipline to career: write a spec, define success metrics, set milestones, track progress intentionally",
+      "relevance_score": 0.97
+    },
+    {
+      "theme": "Resilience Through Failure is Key",
+      "description": "Most successful people are those who embrace failure, learn from adversity, and turn stumbling blocks into stepping stones",
+      "relevance_score": 0.96
+    },
+    {
+      "theme": "Building Zero-to-One in Large Companies",
+      "description": "Succeed with new products by avoiding excess scrutiny, keeping minimal resources, allowing freedom to fail, and iterating quickly",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "Marketplace Platform Strategy",
+      "description": "Facebook Marketplace success required belief in the vision, iterating through multiple product versions, and patience during skepticism",
+      "relevance_score": 0.94
+    },
+    {
+      "theme": "Women in Tech Leadership and Introversion",
+      "description": "Introverts must learn to 'market' their work by educating others about impact, reframing self-promotion as helping teams get resources",
+      "relevance_score": 0.93
+    },
+    {
+      "theme": "30/60/90 Day Onboarding Strategy",
+      "description": "Listen and learn first (30 days), align on vision (60 days), then execute (90 days) - builds trust and prevents costly mistakes",
+      "relevance_score": 0.91
+    },
+    {
+      "theme": "Career Intentionality vs Serendipity",
+      "description": "While serendipity plays a role, having career direction and milestones helps you evaluate opportunities and shape your trajectory",
+      "relevance_score": 0.89
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-deb-liu-001",
+      "quote": "Always be learning, and I tell this to everybody, so I often tell people, someone who's always learning is always going to exceed someone who's the expert today. You're going to find people... But if you're always learning, learning from the best, getting feedback, you're always going to get better every single day.",
+      "timestamp": "00:03:02",
+      "context": "Opening advice on career success - emphasizes continuous learning as fundamental principle",
+      "insight": "Continuous learning beats expertise - remain a student of your craft and you'll always outpace those resting on expertise",
+      "topics": ["career-strategy", "learning", "personal-growth"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-002",
+      "quote": "If I said you had to write a spec for your career, what does success look like? How are you going to get there? But if I said you had to write a spec for your career, what's in there? What are your milestones? What are the skills? What are the features that you want to have of your career? How are you going to get there? What does success look like?",
+      "timestamp": "00:24:05",
+      "context": "Core advice on treating your career like a product with intentional planning",
+      "insight": "PM your career: write specifications, define milestones, identify required skills, and measure progress - don't drift from role to role",
+      "topics": ["career-strategy", "product-management", "intentionality"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-003",
+      "quote": "The most important career decision you make is who you marry. Is this person lifting you up or pushing you back? You will have a much more successful career if your home life is in balance. It's like a yin and a yang.",
+      "timestamp": "00:00:49",
+      "context": "Contrarian perspective shared at podcast opening on relationships and career success",
+      "insight": "Partner choice is your most important career decision - home/life balance is foundational to long-term career success",
+      "topics": ["career-strategy", "life-balance", "relationships"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-004",
+      "quote": "The people who were most successful were the ones who actually through adversity, learned to turn stumbling blocks into stepping stones. They were the ones who got hard feedback and then came back stronger because now they learned what to do differently.",
+      "timestamp": "00:11:40",
+      "context": "Explaining the pattern Deb observed in successful people she coached",
+      "insight": "Resilience through adversity separates successful careers from mediocre ones - failure is a feature, not a bug",
+      "topics": ["resilience", "career-strategy", "failure"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-005",
+      "quote": "You can have the most impact, the job you know the best, but then you stop learning. And if you're learning all the time, you're not necessarily having impact. So how do you keep going back and forth and back and forth so that you're not going straight up a lot or you're actually laddering back and forth into different things where you're having an amazing time where you know everything and then you're the newbie again and learning new things.",
+      "timestamp": "00:04:00",
+      "context": "Describing the balance between learning and impact throughout one's career trajectory",
+      "insight": "Balance mastery and learning by alternating: master current role, move to new challenge, repeat - creates sustainable growth arc",
+      "topics": ["career-strategy", "learning", "impact"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-006",
+      "quote": "The thing that you have to remember is the failure rate for something like this is very high... Everything in the company is like, 'Let's do the most important thing.' These are seeds and we'll just let them... you have to know that you don't get a lot of resources, you get a lot of attention. And I appreciated that because I think I work best when people aren't... There is not a lot of scrutiny.",
+      "timestamp": "00:17:30",
+      "context": "Explaining success strategy for building zero-to-one products within large companies like Facebook",
+      "insight": "New products need minimal oversight and scrutiny - constant checking kills iteration velocity. Give teams freedom to fail with resources constraints, not attention constraints.",
+      "topics": ["zero-to-one", "product-management", "organizational-culture"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-007",
+      "quote": "We actually tested five or six versions of the ads product before we got it to take off and it took months, and then we were on the verge of death multiple times. I actually went back to run the payments team while I was working on that product... because they said, 'We don't think this thing is going to work. You should go run your old team again.' And I thought, 'Well, I will do both.'",
+      "timestamp": "00:18:27",
+      "context": "Specific example of Facebook's mobile ads product which became billion-dollar business",
+      "insight": "Expect multiple iterations and multiple near-death experiences - be willing to do double duty to keep emerging products alive while they prove value",
+      "topics": ["zero-to-one", "resilience", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-008",
+      "quote": "The workplace is really favoring people who can speak up. It looks like self-promotion. I wouldn't want to do that because it's self-promotion. But instead, what if I called it educating about all the great work your team has been doing? Helping people see why your team should get more resources, you have to actually share what you do.",
+      "timestamp": "00:00:28",
+      "context": "Core advice on how introverts can succeed in business by reframing visibility and communication",
+      "insight": "Reframe visibility as educating others and advocating for your team - it's not self-promotion, it's helping people understand impact and securing resources",
+      "topics": ["women-in-tech", "introversion-in-business", "leadership", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-009",
+      "quote": "If you think your self-review is self-promotion, you're just not going to do a great job at it. What if I called it educating your manager about all the great work your team has been doing? What if I called it helping people see why your team should get more resources? Suddenly you're cracking open, you're changing the question right from, 'Oh, I was self-promoting to actually I'm helping my team get more resources and support.'",
+      "timestamp": "00:39:31",
+      "context": "Specific reframing technique for helping introverts overcome discomfort with self-promotion and visibility",
+      "insight": "Reframe every visibility task as 'helping my team' not 'promoting myself' - this flips the psychology and makes action possible",
+      "topics": ["women-in-tech", "introversion-in-business", "leadership", "mindset"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-010",
+      "quote": "For the first 30 days, I did a listening tour. I talked to over 60 people in 30 days and then I summarized a state of the union. Here's what I'm hearing, here are the challenges people feel like we're facing. Here's what people's wishlists are... People want to hear that you hear them. And you don't have to be a manager or CEO to do that.",
+      "timestamp": "00:52:19",
+      "context": "Describing her 30/60/90 onboarding strategy when joining Ancestry as CEO",
+      "insight": "In first 30 days, do listening tour with 60+ people and summarize back what you heard - builds credibility and trust across organization",
+      "topics": ["leadership", "onboarding", "trust-building"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-011",
+      "quote": "It is absolutely ok if 80% of them don't work. I tell people sometimes we overthink as product manager if we just had the perfect plan... imagine you're a team and you can ship, I don't know, let's say four things. But what if you're a team that can ship 20 things with the same with a 20% success. You get just as much output and yet you know what doesn't work also. What if you can move it from 20% to 30%?",
+      "timestamp": "00:48:00",
+      "context": "Growth strategy philosophy - embracing iteration over perfect planning",
+      "insight": "Ship 20 experiments with 20% success rate vs 4 with 50% - you learn more and move faster. Growth is about iteration velocity and learning, not perfection.",
+      "topics": ["growth-strategy", "product-management", "iteration"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-012",
+      "quote": "It's a game of inches. Growth is a game of inches. Sometimes we think it's like what is the huge step function? But actually most companies are like... We call it points of growth, right? It's like if you can move things 1% a little bit faster every single week, think about the amount of growth you get at the end.",
+      "timestamp": "00:46:34",
+      "context": "Philosophy on how growth actually happens - small incremental improvements compound",
+      "insight": "Growth is 1% weekly improvements compounding - avoid fixating on step-function breakthroughs and optimize continuously",
+      "topics": ["growth-strategy", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-013",
+      "quote": "I had five different careers at the company over 11 years... You learn the lessons of how to get things done, how to get resource, how to get support when the product is not working, how to not get pruned in the next culling. And those are really, really important skills. But I think for people who are just starting out of the career, it is a very high risk thing to do... I encourage people just learn the core skills first.",
+      "timestamp": "00:22:19",
+      "context": "Advice on when to take zero-to-one bets vs core product work based on career stage",
+      "insight": "Early career: build core skills on stable products. Mid-career: take the big swings on new products. This sequence reduces risk while building necessary capabilities.",
+      "topics": ["career-strategy", "zero-to-one", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-014",
+      "quote": "Life is 10% what happens to you and 90% how you react to it... You don't get to choose everything that happens in your life. So much is just, it just happens, but it's the people who choose a way forward to turn stumbling blocks and the stepping stones. As I said, 'somebody who actually says, you know what? I didn't get the job that I wanted and I'm just going to figure out another path,' those are the people who have the most successful and satisfying careers.",
+      "timestamp": "00:59:34",
+      "context": "Core philosophy on resilience and responding to adversity in career (quoting Chuck Swindoll)",
+      "insight": "Your reaction to setbacks determines your trajectory - people who choose 'another path' after rejection have the most successful careers",
+      "topics": ["resilience", "career-strategy", "mindset"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-deb-liu-015",
+      "quote": "If I had to go back, I would think much more deeply about what I want to accomplish... you can have such a better career... having a plan allows you to compare every decision... you end up dropping into different parts of your life and I think sometimes by saying, 'Here's where I want to go and here's how I want to get there,' you can have such a better career.",
+      "timestamp": "00:25:10",
+      "context": "Reflection on her accidental career path and how intentionality would have helped",
+      "insight": "Having explicit career destination lets you evaluate each opportunity against your goals - avoids drift and multiplies effectiveness of each move",
+      "topics": ["career-strategy", "intentionality", "decision-making"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-pm-your-career-001",
+    "framework-30-60-90-day-onboarding",
+    "framework-zero-to-one-innovation",
+    "framework-growth-as-game-of-inches"
+  ],
+  "situations_addressed": [
+    "situation-career-pivots-and-transitions",
+    "situation-building-zero-to-one-in-large-company",
+    "situation-introvert-in-business-leadership",
+    "situation-women-in-tech-visibility",
+    "situation-handling-career-rejection",
+    "situation-scaling-marketplace-platforms",
+    "situation-onboarding-new-leadership-role"
+  ],
+  "quotes_extracted": 15,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Deb Liu.txt",
+  "transcript_word_count": 16200,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T00:00:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-haiku-4-5-20251001",
+    "human_reviewed": false
+  }
+}

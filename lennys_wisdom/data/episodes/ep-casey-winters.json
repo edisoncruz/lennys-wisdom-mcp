@@ -1,0 +1,197 @@
+{
+  "id": "ep-casey-winters",
+  "guest_id": "guest-casey-winters",
+  "guest_name": "Casey Winters",
+  "title": "Growth Strategy, Upward Communication, and the CPO Role",
+  "description": "Casey Winters, CPO at Eventbrite and former Pinterest growth leader, shares frameworks for upward communication, perceived simplicity in products, justifying non-sexy work, kindle vs fire growth strategies, and the spectrum of product people from innovators to executors.",
+  "summary": "Casey discusses how to communicate upward by starting at the right chapter of the story, building perceived simplicity (WhatsApp model), justifying investments in stability/performance, kindle strategies (non-scalable hacks) vs fire strategies (scalable loops), why product ops should eliminate inefficiency not normalize it, the CPO role as company-first optimization, and developing strategic thinking in executional PMs.",
+  "topics": [
+    "growth-marketing",
+    "communication",
+    "product-management",
+    "leadership",
+    "strategy",
+    "scaling",
+    "prioritization"
+  ],
+  "key_themes": [
+    {
+      "theme": "Upward Communication: Start at Right Chapter",
+      "description": "Don't start at chapter 6 (execution details) or chapter 1 (textbook) - start at last obvious point for your audience",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "Kindle vs Fire Growth Strategies",
+      "description": "Kindle strategies (non-scalable hacks) unlock fire strategies (scalable loops) - kindle only exists to reach fire",
+      "relevance_score": 0.90
+    },
+    {
+      "theme": "Perceived Simplicity in Products",
+      "description": "Advanced features discoverable when you look but effectively hidden otherwise - WhatsApp as gold standard",
+      "relevance_score": 0.88
+    },
+    {
+      "theme": "Spectrum: Innovators to Executors",
+      "description": "PMs range from crazy innovators (1 in 10 ideas works) to strong executors (can't generate strategy) - train executors to become strategic",
+      "relevance_score": 0.85
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-casey-winters-001",
+      "quote": "When you talk to an exec about that story, you have to start with chapter one, which is what part of the company strategy are you working on? What metrics are you trying to improve? What assumptions are you making?",
+      "timestamp": "00:09:14",
+      "context": "Explaining how non-executives should communicate upward",
+      "insight": "Start communication at chapter 1 (strategy/metrics/assumptions) not chapter 6 (execution details)",
+      "topics": ["communication", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-002",
+      "quote": "Don't start on chapter six of the story, but also don't start with a textbook on the English language either. Find the last point in your story that would be completely obvious to the person you're telling the story to, and then go from there.",
+      "timestamp": "00:10:20",
+      "context": "Coaching PMs on executive communication",
+      "insight": "Find the last obvious point for your audience and start there - not too basic, not too detailed",
+      "topics": ["communication", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-003",
+      "quote": "The best way to coach is actually to do it before the meeting. You want to de-risk that meeting not make it a big success or fail moment.",
+      "timestamp": "00:11:33",
+      "context": "Discussing how to prepare PMs for executive presentations",
+      "insight": "Pre-meeting prep and role-playing executives prevents surprises and de-risks important meetings",
+      "topics": ["communication", "coaching"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-004",
+      "quote": "Executive communication is actually executives communication. You're communicating with individual executives that all have different styles and different concerns.",
+      "timestamp": "00:12:28",
+      "context": "Explaining that different executives care about different things",
+      "insight": "Tailor communication to each executive's style and concerns - there's no one-size-fits-all approach",
+      "topics": ["communication", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-005",
+      "quote": "We strive for this concept of what we call perceived simplicity, which is there are advanced features in the product and they are easily discoverable when you look for them, but they're effectively hidden if you're not looking for them.",
+      "timestamp": "00:22:26",
+      "context": "Explaining how Eventbrite handles complexity for different user sophistication levels",
+      "insight": "Perceived simplicity: advanced features discoverable when needed but hidden otherwise - most users never need them",
+      "topics": ["product-management", "user-experience"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-006",
+      "quote": "The company that I feel like has always done the best job of this is WhatsApp. At its core, it's a chat app and it's really good at being a chat app. When I needed to learn how to do video calls, it would take less than a second to figure out how to use the more advanced stuff, but it's effectively kind of hidden if you're not looking for it.",
+      "timestamp": "00:22:26",
+      "context": "Example of perceived simplicity done well",
+      "insight": "WhatsApp is the gold standard for perceived simplicity - core value obvious, advanced features instantly discoverable",
+      "topics": ["product-management", "user-experience"],
+      "actionable": false
+    },
+    {
+      "id": "insight-ep-casey-winters-007",
+      "quote": "You have to get a team to buy-in to this. You can't really do a lot of this work alone. If you're a PM, you want to be approaching this from a well, my engineering manager and my design leader also bought in that we need to work on performance.",
+      "timestamp": "00:25:41",
+      "context": "How to justify non-sexy product investments like stability and performance",
+      "insight": "Get engineering and design leadership buy-in first before pushing for non-sexy work - can't do it alone",
+      "topics": ["product-management", "influence"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-008",
+      "quote": "When you've actually built a real business, a lot of times people are still in that same mode, which is everything is trying to add more growth. But when you're at scale, you can actually lose what you've built.",
+      "timestamp": "00:28:48",
+      "context": "Explaining why protecting gains matters as much as adding growth",
+      "insight": "At scale, preventing erosion of existing gains is as important as adding new growth",
+      "topics": ["strategy", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-009",
+      "quote": "When you say, oh, their job is to do this manual process long term. That's where I get super concerned because you're not rooting out efficiency in how you build your company.",
+      "timestamp": "00:33:16",
+      "context": "Discussing the danger of normalizing ops roles",
+      "insight": "Ops roles should eliminate inefficiencies, not normalize manual processes - goal should be to not exist",
+      "topics": ["operations", "efficiency"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-010",
+      "quote": "The goal of business operations is to not exist. If the way they deal with that functional issue is by building larger and larger operations teams, that's basically exacerbating an inefficiency issue, not fixing it.",
+      "timestamp": "00:33:16",
+      "context": "Referencing Intercom's approach to business operations",
+      "insight": "Great ops teams build automation and process to eliminate their own need - not empire building",
+      "topics": ["operations", "scaling"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-011",
+      "quote": "One of the things that's different about being a chief product officer versus other product roles is how much of a company leadership role it is versus a functional leadership role. You're expected to optimize for the entire company, even at the expense of what's good for your team.",
+      "timestamp": "00:38:40",
+      "context": "Describing what makes CPO different from other product roles",
+      "insight": "CPO is company leadership, not functional leadership - optimize for company first, even at team's expense",
+      "topics": ["leadership", "career-development"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-012",
+      "quote": "On perhaps the left side of the spectrum you have the crazy innovator types. Those people are going to have ideas all the time. Probably most of those ideas are going to be bad, but one out of ten's going to be just a game changer. On the extreme right side will be your typical executional focused PM.",
+      "timestamp": "00:42:06",
+      "context": "Describing the spectrum of product people",
+      "insight": "PMs range from innovators (10% hit rate, poor execution) to executors (can't generate strategy, great delivery)",
+      "topics": ["hiring", "team-building"],
+      "actionable": false
+    },
+    {
+      "id": "insight-ep-casey-winters-013",
+      "quote": "If I'm airing on the side of which side of the spectrum I want people from, I generally will take people who are good at execution over people who are good at generating ideas, because of course there's always too many good ideas.",
+      "timestamp": "00:43:08",
+      "context": "Hiring philosophy for product teams",
+      "insight": "Hire executors over innovators - too many ideas, not enough execution (opposite for VCs)",
+      "topics": ["hiring", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-014",
+      "quote": "The goal of your kindle strategies, these like non-scalable hacks, they only exist to unlock the fire strategies, to unlock the things that could take you to millions of users.",
+      "timestamp": "00:00:00",
+      "context": "Opening quote explaining growth strategy phases",
+      "insight": "Kindle strategies (non-scalable hacks) exist only to unlock fire strategies (scalable loops)",
+      "topics": ["growth-marketing", "strategy"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-casey-winters-015",
+      "quote": "Founders are thinking about building growth loops into their product before they find product market fit. It's so that when they find product market fit, they have that built in distribution advantage to grow once they're ready.",
+      "timestamp": "00:49:12",
+      "context": "New trend in how founders think about growth",
+      "insight": "Build growth loops early (before PMF) so you have distribution advantage when product is ready to scale",
+      "topics": ["growth-marketing", "product-management"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-kindle-fire-001",
+    "framework-perceived-simplicity-001",
+    "framework-upward-communication-001"
+  ],
+  "situations_addressed": [
+    "situation-communicating-to-executives",
+    "situation-justifying-tech-debt-work",
+    "situation-choosing-growth-strategy",
+    "situation-hiring-product-team"
+  ],
+  "quotes_extracted": 15,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Casey Winters.txt",
+  "transcript_word_count": 10349,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T21:15:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-sonnet-4.5",
+    "human_reviewed": false
+  }
+}

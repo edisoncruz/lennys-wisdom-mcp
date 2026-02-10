@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lennys-wisdom-mcp"
+version = "2.0.0"
+description = "MCP server providing structured access to wisdom from Lenny's Podcast"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Edison Cruz", email = "edisoncruz@gmail.com"}
+]
+dependencies = [
+    "fastmcp>=0.1.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/lennys-wisdom-mcp"
+Repository = "https://github.com/yourusername/lennys-wisdom-mcp"
+Documentation = "https://github.com/yourusername/lennys-wisdom-mcp#readme"
+
+[project.scripts]
+lennys-wisdom = "lennys_wisdom.__main__:main"

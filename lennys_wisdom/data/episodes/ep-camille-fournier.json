@@ -1,0 +1,210 @@
+{
+  "id": "ep-camille-fournier",
+  "guest_id": "guest-camille-fournier",
+  "guest_name": "Camille Fournier",
+  "title": "Engineering Leadership and Platform Teams with Former CTO Camille Fournier",
+  "description": "Camille Fournier, former CTO of Rent The Runway and author of 'The Manager's Path', discusses engineering management, technical decision-making, career development, and building high-performing engineering organizations.",
+  "summary": "Camille Fournier shares insights on what annoys engineers about product managers, the dangers of system rewrites, finding the right balance between technical depth and leadership, managing one-on-ones effectively, building collaborative engineering cultures, and creating world-class platform teams with focus on impact and outcomes.",
+  "topics": [
+    "engineering-management",
+    "leadership",
+    "technical-decision-making",
+    "team-culture",
+    "career-growth",
+    "platform-engineering",
+    "product-management",
+    "organizational-design",
+    "delegation",
+    "work-life-balance"
+  ],
+  "key_themes": [
+    {
+      "theme": "PM-Engineer Relationships",
+      "description": "How product managers can build better relationships with engineers by sharing credit, respecting technical details, avoiding being a middleman, and involving engineers in ideation",
+      "relevance_score": 0.97
+    },
+    {
+      "theme": "The Rewrite Trap",
+      "description": "Why engineers and managers vastly underestimate the complexity of system rewrites, including migration time, hidden business logic, and the need to maintain old systems in parallel",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "Technical Leadership Mastery",
+      "description": "Building deep technical expertise before moving into management enables long-term credibility and understanding of engineering challenges",
+      "relevance_score": 0.94
+    },
+    {
+      "theme": "Focus Over Overwork",
+      "description": "Achieving more through intentional focus and delegation rather than working excessive hours",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "Platform Teams and Impact",
+      "description": "Building effective internal platform teams requires software engineers, product managers, and outcome-focused metrics rather than just infrastructure maintenance",
+      "relevance_score": 0.91
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-camille-fournier-001",
+      "quote": "Hoarding credit. PMs, they tend to be the front-facing person for initiative. Engineers sometimes think that they don't get the credit for their work because the PM takes all the glory and all the credit for the project that they really worked very hard on.",
+      "timestamp": "00:00:04",
+      "context": "Opening response about what product managers do that annoys engineers most",
+      "insight": "Product managers should actively share credit with the engineering team instead of positioning themselves as the sole driver of success",
+      "topics": ["product-management", "team-culture", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-002",
+      "quote": "When they just don't understand the details and act like they don't matter, it just shows a real lack of empathy for the work that engineers are doing and I think it really can be very off-putting.",
+      "timestamp": "00:04:05",
+      "context": "Explaining how dismissing technical details damages PM-engineer relationships",
+      "insight": "Even if you don't understand all technical details as a manager, showing respect for the complexity signals empathy and builds trust with engineers",
+      "topics": ["product-management", "team-culture", "empathy"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-003",
+      "quote": "If you are being asked questions that you cannot answer because you just don't know or because that's something that involves a level of technical detail that only the engineers have... put yourself in this in-between position where people ask you questions, you turn around, you ask the engineers questions... that is very annoying and frankly, it's a waste of time for everyone.",
+      "timestamp": "00:07:08",
+      "context": "Explaining the 'playing telephone' problem where managers become unnecessary middlemen",
+      "insight": "Managers should connect people directly rather than becoming a communication bottleneck",
+      "topics": ["product-management", "organizational-design", "efficiency"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-004",
+      "quote": "When you take the people that are part of the project team out of the creative loop entirely, they're going to find that creative outlet somewhere else and it's actually kind of bad for the product... engineers start to over-engineer things, because engineers are like, well, I need to take control of something.",
+      "timestamp": "00:08:30",
+      "context": "Explaining how excluding engineers from ideation leads to tech debt and over-engineering",
+      "insight": "Engineers need a creative voice in product decisions - exclusion drives them to exercise control through technical choices instead",
+      "topics": ["product-management", "team-culture", "technical-decision-making"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-005",
+      "quote": "Engineers notoriously, notoriously, notoriously, massively underestimate the migration time for old system to new system... You still have to support the old system while you're working on the new system.",
+      "timestamp": "00:16:24",
+      "context": "Explaining why system rewrites fail due to underestimating migration complexity",
+      "insight": "Migration time is the biggest hidden cost in rewrites - allocate 2-3x longer than engineers estimate and plan for parallel support of old system",
+      "topics": ["technical-decision-making", "project-management", "engineering-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-006",
+      "quote": "If I could go away and not touch this and not do anything to it for a long period of time without it really harming my business, is it worthwhile to change it at all? Does it matter?",
+      "timestamp": "00:17:47",
+      "context": "Suggesting a key test for whether a rewrite is actually necessary",
+      "insight": "Before starting a rewrite, test if the system could be left alone without business impact - if yes, you probably don't need to rewrite it",
+      "topics": ["technical-decision-making", "product-management", "strategy"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-007",
+      "quote": "Don't stop being a hands-on technical until you feel like it's in your bones. You feel like you've got mastery... if you do it for long enough, I think you can develop sort of a baseline mastery, where you're not going to be as fast... but you won't be completely clueless.",
+      "timestamp": "00:21:18",
+      "context": "Advising engineering leaders on when to transition from IC to management",
+      "insight": "Reach technical mastery before moving to management so you maintain credibility and understanding of engineering challenges throughout your career",
+      "topics": ["career-growth", "engineering-management", "technical-decision-making"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-008",
+      "quote": "Being technical is also just about knowing what's going on and paying attention and being able to ask good questions... people who actually seem like they sort of understand what you're doing and can ask good questions and help guide you to better decisions.",
+      "timestamp": "00:23:25",
+      "context": "Explaining how technical leaders maintain relevance without being hands-on",
+      "insight": "As you move to higher leadership, stay relevant through listening, asking thoughtful questions, and understanding what engineers are working on rather than writing code yourself",
+      "topics": ["engineering-management", "leadership", "technical-decision-making"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-009",
+      "quote": "Surround yourself with smart technical people, also as much as you can, and be willing to listen to them, talk about tech and ask them questions about things... I'm listening to a lot of very smart people talk about technology a lot... constantly being interested in those stories and learning from them.",
+      "timestamp": "00:24:00",
+      "context": "Explaining how to stay technically current as a manager",
+      "insight": "Build a network of smart engineers and stay connected through conferences, chat groups, tech discussions - this maintains your technical credibility without requiring hands-on work",
+      "topics": ["engineering-management", "career-growth", "continuous-learning"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-010",
+      "quote": "Management is much more... management really is a service job. You are serving the team, you are serving the company. Your job is to help make things better and that usually doesn't mean that you're making all the decisions.",
+      "timestamp": "00:37:08",
+      "context": "Explaining what surprises new managers about the role",
+      "insight": "New managers are shocked to discover that management is a service role focused on enabling others, not exercising authority",
+      "topics": ["engineering-management", "leadership", "team-culture"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-011",
+      "quote": "If you're not regularly doing an audit of your time and trying to knock things off that list that don't matter, you're probably wasting a lot of time on things that don't matter... working hard and a focused way for over fewer hours I think is a more productive way to approach work.",
+      "timestamp": "00:47:37",
+      "context": "Explaining how to achieve work-life balance while maintaining high output",
+      "insight": "Regular audits of what matters combined with focused work beats long hours - it's about working smarter, not longer",
+      "topics": ["engineering-management", "work-life-balance", "productivity"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-012",
+      "quote": "If you don't delegate, then you get overwhelmed because your team doesn't know how to do anything, because you haven't bothered to spend the time delegating... you have to teach people... but then you finally... you freed yourself up to scale.",
+      "timestamp": "00:48:19",
+      "context": "Explaining why delegation is essential for scaling as a leader",
+      "insight": "Delegation requires upfront investment in teaching but frees leaders to scale their impact exponentially",
+      "topics": ["engineering-management", "leadership", "team-building"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-013",
+      "quote": "I think there is this... everybody is doing one-on-ones with everyone else... it's just not a scalable approach, right? Linearly scale with the number of relationships you have... you cannot expect to maintain a one-on-one approach passed a fairly small team/company.",
+      "timestamp": "00:41:35",
+      "context": "Explaining why the proliferation of one-on-ones becomes ineffective at scale",
+      "insight": "One-on-ones with everyone don't scale - focus them on direct reports and your manager, use group forums for broader stakeholder alignment",
+      "topics": ["engineering-management", "organizational-design", "efficiency"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-014",
+      "quote": "Platform engineering has to involve software engineering... if you don't have any software engineers on your platform team and you only have more operations systems engineers... you're kind of missing the picture. Platform engineering is not just maintaining cloud infrastructure... platforms are products, ultimately.",
+      "timestamp": "00:59:04",
+      "context": "Explaining the composition and mindset needed for effective platform teams",
+      "insight": "Platform teams must be product-focused with software engineers, not just ops/SRE focused on infrastructure maintenance",
+      "topics": ["platform-engineering", "organizational-design", "team-structure"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-camille-fournier-015",
+      "quote": "You want to be thinking about how do I create coherent offerings that make this company more productive?... you need to be thinking about impact-based, outcome-based approaches, not just like, we built this thing that seemed cool... Are we reducing the cycle time? Are we solving problems that are preventing products from launching? Are we making really meaningful cost reductions?",
+      "timestamp": "01:00:36",
+      "context": "Explaining how to measure and structure platform team success",
+      "insight": "Platform teams should be measured on concrete business impact: reduced cycle time, unblocked launches, cost efficiency - not on technology choices",
+      "topics": ["platform-engineering", "organizational-design", "metrics"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "10,000 hour mastery",
+    "Impact-based metrics",
+    "Outcome-based OKRs",
+    "Staged migration approach"
+  ],
+  "situations_addressed": [
+    "situation-pm-engineer-relationship",
+    "situation-system-rewrites",
+    "situation-ic-to-manager-transition",
+    "situation-technical-leadership",
+    "situation-platform-team-structure",
+    "situation-delegation-and-scaling",
+    "situation-one-on-one-management",
+    "situation-work-life-balance"
+  ],
+  "quotes_extracted": 15,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Camille Fournier.txt",
+  "transcript_word_count": 12247,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T00:00:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-haiku-4-5",
+    "human_reviewed": false
+  }
+}

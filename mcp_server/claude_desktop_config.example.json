@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "lennys-wisdom": {
+      "command": "python",
+      "args": [
+        "/absolute/path/to/LennyWisdom_Phase1_Deliverables/mcp_server/lennys_wisdom_server.py"
+      ]
+    }
+  }
+}

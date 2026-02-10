@@ -1,0 +1,170 @@
+{
+  "id": "ep-shishir-mehrotra",
+  "guest_id": "guest-shishir-mehrotra",
+  "guest_name": "Shishir Mehrotra",
+  "title": "Growth Loops, Rituals, and Reference Checks: Building Coda",
+  "description": "Shishir Mehrotra, CEO of Coda and former YouTube product leader, shares frameworks for growth strategy (Black Loops vs Blue Loops), his research on rituals of great teams, Eigenquestions for prioritization, and why reference checks are the best hiring signal.",
+  "summary": "Shishir discusses the Black Loop (viral sharing) vs Blue Loop (public publishing) growth strategies, his book project collecting rituals from successful companies, the Eigenquestions framework for finding the most important questions to answer, maker billing pricing strategy, and why reference checks outweigh all other interview signals combined.",
+  "topics": [
+    "growth-marketing",
+    "product-management",
+    "hiring",
+    "strategy",
+    "company-culture",
+    "decision-making",
+    "pricing"
+  ],
+  "key_themes": [
+    {
+      "theme": "Black Loops vs Blue Loops",
+      "description": "Two growth engines: Black Loops (viral sharing within teams) vs Blue Loops (publishing to the world) - inspired by Microsoft and YouTube",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "Rituals of Great Teams",
+      "description": "Collecting and documenting the ceremonies and rituals that make successful companies work - turning into a book",
+      "relevance_score": 0.90
+    },
+    {
+      "theme": "Eigenquestions Framework",
+      "description": "Finding the one question that, if answered, makes all other questions easier or irrelevant - prioritization through first principles",
+      "relevance_score": 0.88
+    },
+    {
+      "theme": "Reference Checks > All Other Signals",
+      "description": "Reference checks with former colleagues provide more signal than all artificial interview scenarios combined",
+      "relevance_score": 0.85
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-shishir-mehrotra-001",
+      "quote": "I generally value the reference check over interview signals. If I had to stack rank in interviews, what is the best signal? The reference check is the top of the list. Those people, they worked with this person sometimes for years, their knowledge, what you're going to get out of 30 minutes of artificial scenarios it's just like never going to compare what a good reference check will give you.",
+      "timestamp": "00:00:00",
+      "context": "Opening advice on hiring and evaluating product talent",
+      "insight": "Reference checks from people who worked with candidates for years provide far better signal than any interview",
+      "topics": ["hiring", "interviewing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-002",
+      "quote": "The Black Loop is someone comes in, they make a doc, they share with a group of people, some subset of the people turn around and make another doc, and the process repeats itself over and over again.",
+      "timestamp": "00:09:08",
+      "context": "Explaining the two growth loops that power Coda",
+      "insight": "Black Loop = viral sharing within teams (share → create → share) like Microsoft Office spread",
+      "topics": ["growth-marketing", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-003",
+      "quote": "The blue loop is someone comes in, makes a doc, and instead of sharing it with a team or with the collaborators, they publish it to the world.",
+      "timestamp": "00:09:53",
+      "context": "Describing the second growth engine for Coda",
+      "insight": "Blue Loop = publishing to the world (like YouTube) creates broad awareness and inbound traffic",
+      "topics": ["growth-marketing", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-004",
+      "quote": "We decided that we're only going to charge for people when they make a document. You only need one paid license... I wanted no friction on the share edge.",
+      "timestamp": "00:11:18",
+      "context": "Explaining Coda's maker billing pricing model",
+      "insight": "Remove friction from your growth loop by charging only for creation, not viewing/editing - accelerates viral spread",
+      "topics": ["pricing", "growth-marketing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-005",
+      "quote": "The line I gave to the team is I want no dollar signs in the share dialog. Every product has its moment of joy for growth.",
+      "timestamp": "00:12:04",
+      "context": "Designing the pricing model around the core growth loop",
+      "insight": "Identify your product's moment of joy and eliminate all friction (especially pricing) from that moment",
+      "topics": ["product-management", "growth-marketing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-006",
+      "quote": "I highly encourage drawing a diagram like this for your business.",
+      "timestamp": "00:09:08",
+      "context": "Explaining how the Black Loop/Blue Loop diagram helped align the team",
+      "insight": "Draw a simple diagram of how your product spreads - it creates clarity and alignment for the entire company",
+      "topics": ["strategy", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-007",
+      "quote": "Eigenquestions - finding the one question that, if you answer it, makes all the other questions easier or disappear entirely.",
+      "timestamp": "00:07:12",
+      "context": "Describing his popular Coda doc on prioritization",
+      "insight": "Don't answer all questions - find the Eigenquestion that makes others irrelevant when solved",
+      "topics": ["decision-making", "prioritization"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-008",
+      "quote": "I think what you're doing there is exploring rituals that have emerged at some of the more successful companies.",
+      "timestamp": "00:16:07",
+      "context": "Discussion of Shishir's book project on company rituals",
+      "insight": "Great teams have intentional rituals and ceremonies - document and replicate what works at successful companies",
+      "topics": ["company-culture", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-009",
+      "quote": "The niches are actually much bigger than people think.",
+      "timestamp": "00:06:17",
+      "context": "Discussing how an Orange Theory workout doc became the most popular Coda doc",
+      "insight": "Niche communities are larger than they appear - serving them well can drive significant growth",
+      "topics": ["growth-marketing", "community"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-010",
+      "quote": "Writing for me is actually surprisingly hard. I feel like I have to think about it. You make it seem really easy.",
+      "timestamp": "00:08:22",
+      "context": "Responding to praise about his writing",
+      "insight": "Even great thinkers find writing hard - it requires deliberate thought and iteration to get the framing right",
+      "topics": ["communication", "personal-productivity"],
+      "actionable": false
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-011",
+      "quote": "I have a little review process I use for my docs that allows other people to help me make it better, which is always really helpful.",
+      "timestamp": "00:08:22",
+      "context": "Describing his writing process",
+      "insight": "Build a review process for important documents - leverage others to improve your thinking and framing",
+      "topics": ["communication", "collaboration"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shishir-mehrotra-012",
+      "quote": "This competition exists in my family too. I don't usually even win with that in my own family.",
+      "timestamp": "00:06:17",
+      "context": "Discussing whose Coda docs are most popular - his daughter's docs outperform his",
+      "insight": "Democratizing creation means sometimes users build better things than founders - embrace it",
+      "topics": ["product-management", "culture"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-black-blue-loops-001",
+    "framework-eigenquestions-001",
+    "framework-maker-billing-001"
+  ],
+  "situations_addressed": [
+    "situation-choosing-growth-strategy",
+    "situation-pricing-strategy",
+    "situation-conducting-reference-checks",
+    "situation-building-viral-loops"
+  ],
+  "quotes_extracted": 12,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Shishir Mehrotra.txt",
+  "transcript_word_count": 19075,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T20:45:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-sonnet-4.5",
+    "human_reviewed": false
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "id": "ep-brian-chesky",
+  "guest_id": "guest-brian-chesky",
+  "guest_name": "Brian Chesky",
+  "title": "How to Build a Great Company with Airbnb CEO Brian Chesky",
+  "description": "Brian Chesky, CEO and co-founder of Airbnb, shares his journey and discusses his unique approach to product management, company organization, and leadership philosophy.",
+  "summary": "Brian Chesky discusses Airbnb's transformation from a divisional structure to a functional model, eliminating traditional product management roles, staying deeply involved in product details (founder mode), and shifting from performance marketing to building great products with integrated storytelling.",
+  "topics": [
+    "leadership",
+    "founder-mode",
+    "product-management",
+    "company-culture",
+    "scaling",
+    "decision-making",
+    "team-building",
+    "growth-marketing"
+  ],
+  "key_themes": [
+    {
+      "theme": "Founder Mode vs Manager Mode",
+      "description": "Founders should stay deeply involved in product details rather than delegating everything like traditional managers",
+      "relevance_score": 0.98
+    },
+    {
+      "theme": "Functional vs Divisional Organization",
+      "description": "How reorganizing from divisions to functional teams (design, engineering, marketing) eliminated politics and bureaucracy",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "Product Marketing Integration",
+      "description": "Combining inbound product development with outbound marketing so teams understand both building AND communicating products",
+      "relevance_score": 0.90
+    },
+    {
+      "theme": "Leaders Must Be in the Details",
+      "description": "Being in the details is different from micromanagement - it enables accountability and quality without telling people what to do",
+      "relevance_score": 0.88
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-brian-chesky-001",
+      "quote": "Way too many founders apologize for how they want to run the company. They find some midpoint between how they want to run a company and how the people they lead want to run the company. That's a good way to make everyone miserable.",
+      "timestamp": "00:00:00",
+      "context": "Opening statement about founder leadership and having the conviction to run companies the way founders believe is best",
+      "insight": "Founders should not compromise on their vision for how to run the company - clarity is more valuable than consensus",
+      "topics": ["leadership", "founder-mode"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-002",
+      "quote": "There's this negative term called micromanagement. I think there's a difference between micromanagement, which is like telling people exactly what to do, and being in the details. Being in the details is what every responsible company's board does to the CEO.",
+      "timestamp": "00:00:00",
+      "context": "Explaining why founders should stay involved in details without micromanaging",
+      "insight": "Being in the details enables oversight and quality control without dictating solutions",
+      "topics": ["leadership", "management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-003",
+      "quote": "We don't have any longer the traditional product management function as it existed when you was here. But we didn't get rid of people helping drive the product. What we did is we combined what one might call the inbound product development responsibilities of product manager with the outbound or marketing responsibilities of product marketing.",
+      "timestamp": "00:06:46",
+      "context": "Explaining Airbnb's controversial product management reorganization",
+      "insight": "Product managers should understand both how to build AND how to market products - they're inseparable",
+      "topics": ["product-management", "marketing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-004",
+      "quote": "You can't build a product unless you know how to talk about the product. You can't be an expert in making the product unless you're also an expert in the market of it.",
+      "timestamp": "00:07:42",
+      "context": "Explaining why product development and marketing must be integrated",
+      "insight": "Product excellence requires understanding both creation and communication",
+      "topics": ["product-management", "marketing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-005",
+      "quote": "If you build a great product and no one knows about it, did you even build a product?",
+      "timestamp": "00:07:42",
+      "context": "Explaining why distribution and communication are as important as product quality",
+      "insight": "Product success requires both quality and awareness - building without marketing is incomplete",
+      "topics": ["product-management", "marketing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-006",
+      "quote": "Five teams are going different directions, but they all need a payment platform. And so what happens is that the teams that everyone's dependent on get this backup like a deli and people are going around the block. And then at some point they just give up.",
+      "timestamp": "00:09:43",
+      "context": "Describing how divisional organizations create dependencies, politics, and bureaucracy",
+      "insight": "Divisional structures create bottlenecks that lead to duplication, politics, and slow decision-making",
+      "topics": ["organizational-design", "scaling"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-007",
+      "quote": "I've always said that the health of an organization, one simple heuristic is how close is engineering and marketing?",
+      "timestamp": "00:11:30",
+      "context": "Explaining why engineering and marketing must be tightly integrated",
+      "insight": "The distance between engineering and marketing is an indicator of organizational health",
+      "topics": ["organizational-design", "culture"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-008",
+      "quote": "We have a rolling two year roadmap. We don't even really do an annual plan. As you remember, Lenny, when you were at Airbnb, we would have three month planning cycles. Now planning cycle is just a budgeting cycle and most people only spend a week or two on it.",
+      "timestamp": "00:13:23",
+      "context": "Describing Airbnb's approach to planning and roadmapping",
+      "insight": "Long-term rolling roadmaps with lightweight planning cycles enable strategic focus without bureaucracy",
+      "topics": ["product-management", "planning"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-009",
+      "quote": "We wanted a company where a thousand people could work, but it'll look like 10 people did it.",
+      "timestamp": "00:14:26",
+      "context": "Describing the goal of cohesive product development at scale",
+      "insight": "Great products feel unified because everyone rows in the same direction with shared understanding",
+      "topics": ["product-management", "culture"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-010",
+      "quote": "I think the CEO should be basically the chief product officer of a product or tech company. If the CEO is not the chief product officer then I don't know if they're a product or tech led company.",
+      "timestamp": "00:16:08",
+      "context": "Explaining why CEOs shouldn't delegate product leadership",
+      "insight": "Product-led companies require CEO-level product ownership, not delegation to a CPO",
+      "topics": ["leadership", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-011",
+      "quote": "The less involved I was in the project, the more spin there was, the less clear the goals, the less advocacy the team had, the less resources, the fewer resources they had. And then therefore the slower they moved.",
+      "timestamp": "00:17:27",
+      "context": "Describing the paradox of empowerment leading to slower execution",
+      "insight": "Too much delegation can slow teams down by creating ambiguity and reducing advocacy",
+      "topics": ["leadership", "management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-012",
+      "quote": "The pandemic occurs and we lost 80% of our business in eight weeks. And then suddenly we're like, oh my God. I remember basically staring into the abyss... We had a near-death business experience and our business flashed before our eyes.",
+      "timestamp": "00:24:20",
+      "context": "Describing how the pandemic crisis created clarity about needed changes",
+      "insight": "Crisis creates clarity - near-death experiences force companies to focus on what truly matters",
+      "topics": ["crisis-management", "leadership"],
+      "actionable": false
+    },
+    {
+      "id": "insight-ep-brian-chesky-013",
+      "quote": "There's a great saying that the best way to slow a project down is add more people to it.",
+      "timestamp": "00:25:54",
+      "context": "Explaining why Airbnb stayed lean with fewer than 7,000 employees vs Uber's 30,000",
+      "insight": "Keeping teams small and senior moves faster than large teams with more layers",
+      "topics": ["team-building", "scaling"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-014",
+      "quote": "Every project I would review every week, every two weeks, every four weeks, every eight weeks or every 12 weeks. There'd be a cadence... I'd review the work and if something wasn't happening, then I would stop the meeting and say, 'Why isn't this happening?'",
+      "timestamp": "00:27:54",
+      "context": "Describing the CEO review schedule that creates accountability",
+      "insight": "Regular CEO reviews of all work eliminates politics because blockers surface immediately",
+      "topics": ["management", "accountability"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-brian-chesky-015",
+      "quote": "The more I get involved... This is so weird. The more in the details I am, the more time I have on my hands. That's a paradox.",
+      "timestamp": "00:50:34",
+      "context": "Explaining how deep involvement initially requires more work but eventually creates more time",
+      "insight": "Being in details is high-effort initially but reduces surprises and rework long-term",
+      "topics": ["leadership", "time-management"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [],
+  "situations_addressed": [
+    "situation-reorganizing-company-structure",
+    "situation-product-management-transformation",
+    "situation-crisis-response"
+  ],
+  "quotes_extracted": 15,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Brian Chesky.txt",
+  "transcript_word_count": 14468,
+  "extraction_metadata": {
+    "extracted_at": "2026-01-30T19:30:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-sonnet-4.5",
+    "human_reviewed": false
+  }
+}

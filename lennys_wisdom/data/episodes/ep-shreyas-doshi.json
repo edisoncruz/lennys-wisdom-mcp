@@ -1,0 +1,197 @@
+{
+  "id": "ep-shreyas-doshi",
+  "guest_id": "guest-shreyas-doshi",
+  "guest_name": "Shreyas Doshi",
+  "title": "Five Big Ideas: Pre-mortems, LNO, Impact vs Execution, and High Agency",
+  "description": "Shreyas Doshi, former product leader at Stripe, Twitter, Google, and Yahoo, shares five transformative frameworks for product management: pre-mortems to avoid ugly post-mortems, LNO for prioritizing your time, three levels of product work, why execution problems are strategy problems, and the power of high agency.",
+  "summary": "Shreyas deep-dives into five big product management ideas: (1) pre-mortems using tigers/paper tigers/elephants to identify risks before launch, (2) LNO framework (Leverage/Neutral/Overhead tasks) for time management, (3) three levels of product work (Impact/Execution/Optics) and why misalignment causes conflict, (4) most execution problems are actually strategy or culture problems, (5) minimize opportunity cost instead of maximizing ROI, plus bonus on high agency.",
+  "topics": [
+    "product-management",
+    "decision-making",
+    "prioritization",
+    "strategy",
+    "leadership",
+    "personal-productivity",
+    "company-culture"
+  ],
+  "key_themes": [
+    {
+      "theme": "Pre-mortems Prevent Ugly Post-mortems",
+      "description": "Imagine project failure and work backwards to identify tigers, paper tigers, and elephants before launch",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "LNO Framework for Time Management",
+      "description": "Categorize work as Leverage (10X return), Neutral (1X return), or Overhead (<1X) tasks to focus energy correctly",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "Three Levels: Impact, Execution, Optics",
+      "description": "Misalignment between thinking at impact vs execution vs optics level causes most team conflicts",
+      "relevance_score": 0.90
+    },
+    {
+      "theme": "Execution Problems Are Strategy Problems",
+      "description": "When bandaids keep falling off, the issue isn't execution - it's missing strategy, culture, or interpersonal problems",
+      "relevance_score": 0.88
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-shreyas-doshi-001",
+      "quote": "If you do a pre-mortem right, you will not have to do an ugly post-mortem. You might still do a post-mortem to learn, but odds are very high that it is not going to be a bad post-mortem.",
+      "timestamp": "00:24:50",
+      "context": "Explaining the genius of pre-mortems - starting with 'imagine this project failed'",
+      "insight": "Pre-mortems give psychological safety to discuss risks before they become disasters",
+      "topics": ["product-management", "risk-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-002",
+      "quote": "The initial prompt is the genius, which is the prompt starts with, imagine this project that we are working on has failed six months from now. Let's work backwards from there and ask ourselves what went wrong.",
+      "timestamp": "00:25:47",
+      "context": "Describing how to start a pre-mortem meeting",
+      "insight": "Working backwards from hypothetical failure unlocks honesty about risks people were afraid to mention",
+      "topics": ["product-management", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-003",
+      "quote": "A tiger is a threat that will actually kill us, just like a tiger would. A paper tiger is a seeming threat that others might be worried about, but you're not worried about. And the elephant in the room that nobody is talking about.",
+      "timestamp": "00:27:51",
+      "context": "Three categories for pre-mortem risks",
+      "insight": "Tigers/paper tigers/elephants vocabulary creates shared language for discussing threats objectively",
+      "topics": ["product-management", "frameworks"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-004",
+      "quote": "There are L tasks which are leverage tasks. When you put in a certain amount of effort, you get 10X or 100X in return in terms of impact.",
+      "timestamp": "00:35:56",
+      "context": "Introducing the LNO framework for categorizing work",
+      "insight": "Identify Leverage tasks (10X return) and invest your best energy there - not all tasks deserve equal effort",
+      "topics": ["personal-productivity", "prioritization"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-005",
+      "quote": "The same type of activity can actually be either an L task or an N task or an O task. Filing a bug report depending on the situation can be a high leverage task, and over there you want to file a very detailed bug report. In other cases, might be an O task where you just have one screenshot and hit submit.",
+      "timestamp": "00:38:43",
+      "context": "Explaining that task type depends on context, not activity",
+      "insight": "Same activity can be Leverage or Overhead depending on context - adjust effort accordingly",
+      "topics": ["personal-productivity", "judgment"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-006",
+      "quote": "The L tasks, PMs implicitly just deep down they know what their L tasks are, because those are the tasks that are bothering them the most because they are not doing them or because they're not doing them as well as they know they should.",
+      "timestamp": "00:42:38",
+      "context": "Explaining how to identify your Leverage tasks",
+      "insight": "Your Leverage tasks are the ones you're procrastinating on - they scare you because they matter",
+      "topics": ["self-awareness", "prioritization"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-007",
+      "quote": "Before I have to tackle an L task, that couple of days leading up to it, I do all these placebo productivity tasks. I intentionally do N tasks and O tasks. And I keep reminding myself, 'Yeah, you're just doing neutral and overhead tasks.' Because then that just tricks me into thinking, 'Okay, if I've been doing this placebo productivity task for the last two days, now, it's the right time for me to do this L task.'",
+      "timestamp": "00:44:26",
+      "context": "Tactics for overcoming procrastination on Leverage tasks",
+      "insight": "Use placebo productivity (intentional busywork) to build momentum before tackling scary high-leverage work",
+      "topics": ["personal-productivity", "psychology"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-008",
+      "quote": "There are three levels of product work: impact, execution, and optics. You are thinking at the execution level, which is what does it take to get something done? The CEO on the other hand is approaching it from the impact level.",
+      "timestamp": "00:47:58",
+      "context": "Explaining why smart well-intentioned people conflict in product reviews",
+      "insight": "Most PM-CEO conflicts happen because they're thinking at different levels (execution vs impact)",
+      "topics": ["communication", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-009",
+      "quote": "Optics is about creating awareness of the impact and the execution that you're doing. Optics is a good thing. It creates energy, it creates awareness, it creates excitement, it creates opportunities for feedback.",
+      "timestamp": "00:50:06",
+      "context": "Defining the third level of product work",
+      "insight": "Optics (internal communication) is necessary for energy and feedback - but shouldn't become the goal",
+      "topics": ["communication", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-010",
+      "quote": "Most execution problems that I encounter in a high performing environment where everybody has the right intentions are actually not execution problems, they are either strategy problems or interpersonal problems or cultural problems.",
+      "timestamp": "00:54:49",
+      "context": "Realizing that bandaid solutions don't fix root causes",
+      "insight": "When bandaids keep falling off, stop treating symptoms - the real problem is strategy, culture, or people",
+      "topics": ["leadership", "problem-solving"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-011",
+      "quote": "The reason we are misaligned is because we don't know what the strategy is. We craft some OKRs based on what makes sense. The OKRs are not very well aligned. This lack of strategy is what's causing this misalignment, it's not because they're not meeting regularly.",
+      "timestamp": "00:58:09",
+      "context": "Example of execution problem that's actually a strategy problem",
+      "insight": "Team misalignment usually stems from missing strategy, not insufficient meetings",
+      "topics": ["strategy", "alignment"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-012",
+      "quote": "In a high leverage role, you should stop doing work that simply provides a positive return on investment. You should start focusing on work that minimizes opportunity cost. Is this the best use of my time?",
+      "timestamp": "01:02:47",
+      "context": "Shifting from ROI to opportunity cost mindset",
+      "insight": "Don't chase quick wins (positive ROI) - ask 'is this the BEST use of time?' to minimize opportunity cost",
+      "topics": ["prioritization", "strategy"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-013",
+      "quote": "High agency is about finding a way to get what you want without waiting for conditions to be perfect or otherwise blaming the circumstances.",
+      "timestamp": "01:11:55",
+      "context": "Defining the most important PM trait",
+      "insight": "High agency PMs (ownership + creative execution + resilience) exceed potential despite adverse conditions",
+      "topics": ["mindset", "career-development"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-014",
+      "quote": "He asked me one question which was something to the effect of, how does this make our users love Twitter more? Simple question. But then at that point I realized, yeah, we never really talked about that.",
+      "timestamp": "00:20:40",
+      "context": "Jack Dorsey asking a vital question during an acquisition discussion",
+      "insight": "Great leaders listen deeply then ask one vital question that reframes the entire discussion",
+      "topics": ["leadership", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-shreyas-doshi-015",
+      "quote": "When you combine high energy sound judgment, low ego and small teams, you just get magic. I saw that combination more at Stripe than any other place I've been at.",
+      "timestamp": "00:18:13",
+      "context": "Describing what made Stripe special",
+      "insight": "Magic happens when you combine: high energy + sound judgment + low ego + small teams",
+      "topics": ["culture", "team-building"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-pre-mortem-001",
+    "framework-lno-001",
+    "framework-three-levels-001"
+  ],
+  "situations_addressed": [
+    "situation-preventing-launch-disasters",
+    "situation-managing-pm-time",
+    "situation-resolving-team-misalignment",
+    "situation-prioritizing-roadmap"
+  ],
+  "quotes_extracted": 15,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Shreyas Doshi.txt",
+  "transcript_word_count": 14594,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T21:00:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-sonnet-4.5",
+    "human_reviewed": false
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "ep-kim-scott",
+  "guest_id": "guest-kim-scott",
+  "guest_name": "Kim Scott",
+  "title": "Radical Candor: Care Personally and Challenge Directly",
+  "description": "Kim Scott, author of Radical Candor (1M+ copies sold), shares the framework for effective feedback: caring personally while challenging directly, avoiding ruinous empathy, and the HHIIPP + CORE methods for giving feedback.",
+  "summary": "Kim explains the Radical Candor framework (care personally + challenge directly), why ruinous empathy is the most common mistake (90%), the HIP CORE method for giving feedback (humble, helpful, immediate, in-person, praise in public/criticize in private, plus context-observation-result-next step), and tactical language for difficult conversations.",
+  "topics": [
+    "feedback",
+    "communication",
+    "management",
+    "leadership",
+    "culture",
+    "personal-productivity"
+  ],
+  "key_themes": [
+    {
+      "theme": "Radical Candor Framework",
+      "description": "Care personally + challenge directly simultaneously - avoiding ruinous empathy, obnoxious aggression, and manipulative insincerity",
+      "relevance_score": 0.98
+    },
+    {
+      "theme": "Ruinous Empathy is Most Common",
+      "description": "90% of mistakes happen when we care but avoid telling people what they need to hear",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "HIP CORE Method",
+      "description": "Humble, Helpful, Immediate, In-person (synchronously), Praise in public/criticize in Private + Context, Observation, Result, next step (E)",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "Phone Over Video for Feedback",
+      "description": "Phone calls reduce noise from facial expressions and keep focus on words",
+      "relevance_score": 0.80
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-kim-scott-001",
+      "quote": "If you say, 'Do you have any feedback for me?' You're wasting your breath. The other person's going to say, 'Oh no, everything's fine.' The question that I like to ask is, 'What could I do or stop doing that would make it easier to work with me?'",
+      "timestamp": "00:00:00",
+      "context": "Opening advice about soliciting feedback effectively",
+      "insight": "Ask specific action-oriented questions, not generic 'any feedback?' - make it about their experience",
+      "topics": ["feedback", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-002",
+      "quote": "Radical Candor is just what happens when you care personally and challenge directly at the same time.",
+      "timestamp": "00:04:04",
+      "context": "Core definition of Radical Candor framework",
+      "insight": "Effective feedback requires both dimensions simultaneously - care AND directness",
+      "topics": ["feedback", "radical-candor"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-003",
+      "quote": "I would say 90% of us make 90% of our mistakes in that ruinous empathy bucket. It's by far and away the most common problem.",
+      "timestamp": "00:07:11",
+      "context": "Explaining the most common failure mode",
+      "insight": "Most people care but avoid challenge - ruinous empathy is the dominant mistake",
+      "topics": ["feedback", "management"],
+      "actionable": false
+    },
+    {
+      "id": "insight-ep-kim-scott-004",
+      "quote": "When I realize I've acted like a jerk, when I realize I've landed in obnoxious aggression, it's not actually my instinct to go the right way on care personally. Instead, it's my instinct to go the wrong way on challenge directly and to pretend that I agree when I disagree, and then I wind up in the worst place of all, manipulative insincerity.",
+      "timestamp": "00:05:48",
+      "context": "Describing how people overcorrect from obnoxious aggression",
+      "insight": "After being too harsh, people often swing to fake agreement rather than adding care",
+      "topics": ["feedback", "self-awareness"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-005",
+      "quote": "I want people to use this framework not to judge themselves or other people harshly, but like a compass to guide specific conversations with specific people to a better place.",
+      "timestamp": "00:08:26",
+      "context": "How to use the Radical Candor framework",
+      "insight": "Use Radical Candor as navigation tool, not judgment - guide conversations directionally",
+      "topics": ["feedback", "self-compassion"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-006",
+      "quote": "When you say um every third word, it makes you sound stupid.",
+      "timestamp": "00:11:14",
+      "context": "Kim's boss giving her direct feedback about verbal tics",
+      "insight": "Sometimes you need to be very direct to get through to someone - calibrate to the person",
+      "topics": ["feedback", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-007",
+      "quote": "Relationships don't scale. But when a leader treats their team with that kind of real care, then it's much more likely that their direct reports in turn are going to treat their teams with real care. And that creates a culture of caring. And even though relationships don't scale, culture does scale.",
+      "timestamp": "00:13:27",
+      "context": "Explaining how care cascades through organizations",
+      "insight": "Care for direct reports creates caring culture - culture scales even though relationships don't",
+      "topics": ["leadership", "culture"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-008",
+      "quote": "I call it candor and not truth because if I march into a room and I say, 'Lenny, I'm going to tell you the truth.' I'm kind of implying I've got a pipeline to God and you don't know anything. And that's not what this is all about. This is a dialogue, not a monologue.",
+      "timestamp": "00:15:31",
+      "context": "Explaining why 'candor' vs 'truth'",
+      "insight": "Use 'candor' not 'truth' - you might be wrong, this is dialogue not dictation",
+      "topics": ["feedback", "humility"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-009",
+      "quote": "If I tell myself, Oh, I'm going to wait for a better moment to tell this person this thing, what I'm really saying is I'm never going to say.",
+      "timestamp": "00:16:25",
+      "context": "Why to give feedback immediately",
+      "insight": "'Waiting for the right time' usually means never - give feedback right away",
+      "topics": ["feedback", "procrastination"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-010",
+      "quote": "Have these conversations synchronously and I'm going to recommend phone over video. There's a lot of evidence coming out of University of Chicago... that there's more noise than signal in facial expressions and body language... when you're talking to someone on the phone, you're listening to the words that they are saying to you.",
+      "timestamp": "00:17:16",
+      "context": "Research on communication mediums",
+      "insight": "Phone is better than video for feedback - facial expressions add noise, phone focuses on words",
+      "topics": ["communication", "feedback"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-011",
+      "quote": "HHIIPPP: Humble, Helpful, Immediately, In-person (or at least synchronously), Praise in public, criticize in Private, not about Personality.",
+      "timestamp": "00:19:21",
+      "context": "Acronym for feedback best practices",
+      "insight": "Follow HHIIPPP principles when giving feedback for maximum effectiveness",
+      "topics": ["feedback", "framework"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-kim-scott-012",
+      "quote": "Context, Observation, Result, next step (E). So context, in the meeting, observation, when you said um every third word, result, it made you sound stupid. Next step, go to the speech coach.",
+      "timestamp": "00:19:21",
+      "context": "CORE framework for structuring feedback",
+      "insight": "Structure feedback with CORE: Context, Observation, Result, nExt step - works for praise and criticism",
+      "topics": ["feedback", "framework"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-radical-candor-001"
+  ],
+  "situations_addressed": [
+    "situation-giving-difficult-feedback",
+    "situation-ruinous-empathy-with-underperformer",
+    "situation-soliciting-feedback"
+  ],
+  "quotes_extracted": 12,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Kim Scott.txt",
+  "transcript_word_count": 17500,
+  "extraction_metadata": {
+    "extracted_at": "2026-01-30T20:15:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-sonnet-4.5",
+    "human_reviewed": false
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "ep-claire-hughes-johnson",
+  "guest_id": "guest-claire-hughes-johnson",
+  "guest_name": "Claire Hughes Johnson",
+  "title": "Scaling People: Tactical Guides for Company Building and Management",
+  "description": "Claire Hughes Johnson, former COO at Stripe for 7 years and former VP at Google, shares tactical frameworks for scaling companies, building operational cadence, personal operating principles, and effective management.",
+  "summary": "Claire discusses her book 'Scaling People' and shares frameworks for company building including: personal operating principles (self-awareness, saying hard things, management vs leadership), founding documents (mission, long-term goals, values), operational cadence, and why structure matters earlier than founders think.",
+  "topics": [
+    "scaling",
+    "operations",
+    "management",
+    "leadership",
+    "company-culture",
+    "hiring",
+    "decision-making",
+    "personal-productivity"
+  ],
+  "key_themes": [
+    {
+      "theme": "Personal Operating Principles First",
+      "description": "Self-awareness and personal values must come before company building - start with understanding yourself",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "Structure Earlier Than You Think",
+      "description": "Put operational structures in place sooner than feels comfortable to avoid chaos later",
+      "relevance_score": 0.90
+    },
+    {
+      "theme": "Say the Thing You Cannot Say",
+      "description": "Create psychological safety by asking questions and making observations without judgment",
+      "relevance_score": 0.88
+    },
+    {
+      "theme": "House Architecture for Companies",
+      "description": "Companies need foundation (founding docs), supporting beams (OKRs, QBRs), and mechanicals (operating cadence)",
+      "relevance_score": 0.85
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-claire-hughes-johnson-001",
+      "quote": "If you're not sure who the decision maker is, one, it's probably you. And I'd rather you act that way than not because you're going to like slow the whole company down. Follow a process and get it done, and don't forget to actually make a decision.",
+      "timestamp": "00:00:00",
+      "context": "Opening advice about decision-making and avoiding paralysis at Stripe",
+      "insight": "Default to being the decision-maker rather than waiting for permission - bias toward action prevents slowdowns",
+      "topics": ["decision-making", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-002",
+      "quote": "If anything I would say about advice to people generally is be a force for positive momentum and it will be actually a real career maker.",
+      "timestamp": "00:00:00",
+      "context": "Career advice about what makes people successful",
+      "insight": "Creating positive momentum in your work is one of the most valuable career skills",
+      "topics": ["career-development", "productivity"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-003",
+      "quote": "If you believe that talent is everything, then your hiring process is everything.",
+      "timestamp": "00:07:11",
+      "context": "Explaining why she wrote extensively about hiring in her book",
+      "insight": "If talent matters, you must invest heavily in hiring process design",
+      "topics": ["hiring", "talent"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-004",
+      "quote": "Product market fit is just the product, and that is not a company, and that will not scale, to point. You see these companies that sort of fall over and there's sort of a bad article about them, and often it's not the product, it's the fact that they didn't actually build the company very well.",
+      "timestamp": "00:20:23",
+      "context": "Explaining why company building matters as much as product-market fit",
+      "insight": "Product-market fit alone isn't enough - you must build the company infrastructure or you'll fail at scale",
+      "topics": ["scaling", "company-building"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-005",
+      "quote": "I really recommend... And my book has examples of rubrics, questions you can use. How do you really get at... Because it's hard to really evaluate someone in 30 minutes or 45 minutes.",
+      "timestamp": "00:25:49",
+      "context": "Discussing interviewing as a learnable skill with frameworks",
+      "insight": "Interviewing is a skill that must be learned and practiced with structured rubrics",
+      "topics": ["hiring", "interviewing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-006",
+      "quote": "Self-awareness to build mutual awareness is actually the most fundamental thing you need to crack if you're going to succeed at company building or management, in my opinion.",
+      "timestamp": "00:28:08",
+      "context": "Explaining the first personal operating principle",
+      "insight": "Self-awareness is the foundation of effective leadership and company building",
+      "topics": ["leadership", "self-awareness"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-007",
+      "quote": "The more that you can seek feedback, seek to understand your motivators, your strengths, your blind spots, your tendencies, and take that on board and expose it to others, you're going to be a much more effective company builder and manager.",
+      "timestamp": "00:28:08",
+      "context": "Explaining why self-awareness matters for leaders",
+      "insight": "Exposing your motivators, strengths, and blind spots to others makes you more effective",
+      "topics": ["leadership", "feedback"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-008",
+      "quote": "Ask a question. A question is not threatening... And then you own it. This is your observation, this is your perception. This is not a judgment.",
+      "timestamp": "00:35:47",
+      "context": "Tactical advice for saying uncomfortable things",
+      "insight": "To say hard things: ask questions and frame as personal observations, not judgments",
+      "topics": ["communication", "feedback"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-009",
+      "quote": "Too many people think your job as the manager is to be the expert and tell people what to do. No, actually, your job is to enable people to be their very damn best on your team.",
+      "timestamp": "00:38:05",
+      "context": "Explaining the manager's real role",
+      "insight": "Managers should enable excellence, not lecture or dictate solutions",
+      "topics": ["management", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-010",
+      "quote": "I think too many managers wait until they have a million pieces of data to make an observation to someone about an area for improvement. Instead, I would say take some data, form a hypothesis, and then explore it with the person.",
+      "timestamp": "00:39:11",
+      "context": "Discussing hypothesis-based coaching",
+      "insight": "Form hypotheses from limited data and explore them collaboratively rather than waiting for perfect information",
+      "topics": ["management", "coaching", "feedback"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-011",
+      "quote": "I would say do very few things consistently and try to do them well, and then see if they're working for you, and then once a year, maybe think about a revision. But don't keep throwing out new things you heard that other companies do.",
+      "timestamp": "00:50:16",
+      "context": "Advice on company operating systems and processes",
+      "insight": "Consistency beats novelty - pick few processes, do them well, revise annually",
+      "topics": ["operations", "processes"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-claire-hughes-johnson-012",
+      "quote": "Don't let the perfect be the enemy of the good.",
+      "timestamp": "00:50:50",
+      "context": "On org structure and operating systems",
+      "insight": "Having an imperfect system and committing to it is better than constantly searching for perfection",
+      "topics": ["operations", "decision-making"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-personal-operating-principles-001",
+    "framework-house-architecture-001",
+    "framework-explorer-not-lecturer-001",
+    "framework-hypothesis-based-coaching-001"
+  ],
+  "situations_addressed": [
+    "situation-implementing-levels-and-ladders",
+    "situation-building-support-at-scale",
+    "situation-when-to-add-structure"
+  ],
+  "quotes_extracted": 12,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Claire Hughes Johnson.txt",
+  "transcript_word_count": 16800,
+  "extraction_metadata": {
+    "extracted_at": "2026-01-30T19:45:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-sonnet-4.5",
+    "human_reviewed": false
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "id": "ep-annie-duke",
+  "guest_id": "guest-annie-duke",
+  "guest_name": "Annie Duke",
+  "title": "Thinking in Bets: Decision-Making Under Uncertainty and the Power of Knowing When to Quit",
+  "description": "Annie Duke, former poker champion and decision-making expert, shares frameworks for improving decision quality through explicit reasoning, probabilistic thinking, and structured decision processes. Covers resulting vs. process evaluation, pre-mortems with kill criteria, and the psychology of quitting.",
+  "summary": "Annie Duke discusses how to improve decision-making by making implicit assumptions explicit, the critical difference between decision quality and outcomes (resulting), how to shorten feedback loops by identifying correlated signals, the importance of independent discovery before group discussion, pre-mortems with actionable kill criteria, and why people consistently quit too late due to sunk cost bias and identity concerns.",
+  "topics": [
+    "decision-making",
+    "uncertainty",
+    "probabilistic-thinking",
+    "bias",
+    "leadership",
+    "organizational-culture",
+    "product-development",
+    "venture-capital",
+    "behavioral-economics",
+    "quitting"
+  ],
+  "key_themes": [
+    {
+      "theme": "Making Implicit Assumptions Explicit",
+      "description": "Transform intuitive decisions into structured, testable frameworks by articulating what you're implicitly evaluating",
+      "relevance_score": 0.98
+    },
+    {
+      "theme": "Resulting vs. Good Process",
+      "description": "Separate outcome quality from decision quality - a bad outcome doesn't necessarily mean a bad decision, and vice versa",
+      "relevance_score": 0.97
+    },
+    {
+      "theme": "Probabilistic Thinking",
+      "description": "Make forecasts explicit with ranges (lower bound, point estimate, upper bound) to improve calibration and track accuracy",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "Independent Discovery Over Group Think",
+      "description": "Elicit opinions asynchronously and independently before group discussion to avoid conformity bias and amplified groupthink",
+      "relevance_score": 0.96
+    },
+    {
+      "theme": "Shortening Feedback Loops",
+      "description": "Identify intermediate signals (necessary but not sufficient factors, correlated outcomes) to reduce waiting time for feedback",
+      "relevance_score": 0.94
+    },
+    {
+      "theme": "Pre-Mortems with Kill Criteria",
+      "description": "Use pre-mortems not just to identify risks but to set specific kill criteria and pre-commit to actions when signals appear",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "The Psychology of Quitting",
+      "description": "Understand sunk cost bias, endowment effect, and identity concerns that prevent people from quitting when they should",
+      "relevance_score": 0.91
+    },
+    {
+      "theme": "Decision Quality at First Round Capital",
+      "description": "Structuring investment decisions through explicit rubrics, mediating judgments, and tracking partner accuracy over time",
+      "relevance_score": 0.93
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-annie-duke-001",
+      "quote": "It's so incredibly necessary in improving decision quality to take what's implicit and make it explicit. It's not that intuition is crap, your intuition is sometimes right. If you don't make it explicit, then you don't get to find out when it's wrong.",
+      "timestamp": "00:00:00",
+      "context": "Opening statement about the core principle of decision improvement",
+      "insight": "The foundation of better decisions is externalizing implicit mental models so they can be examined, challenged, and improved",
+      "actionable": true,
+      "advice": "When making any significant decision, write down what factors you're considering and why. Don't rely on pure intuition - articulate the logic so you can test it against reality and learn from mistakes."
+    },
+    {
+      "id": "insight-ep-annie-duke-002",
+      "quote": "People generally think the purpose of a meeting is for three things, discover, discuss, decide. The only thing that's ever supposed to happen in a meeting is the discussion part.",
+      "timestamp": "00:00:25",
+      "context": "Explaining how to restructure meetings for better decision-making",
+      "insight": "Meetings should be used only for discussion - discovery and deciding should happen asynchronously to avoid groupthink and conformity bias",
+      "actionable": true,
+      "advice": "Before any meeting, get written input from participants independently (via form, shared doc, or email). Share aggregated opinions with everyone before the meeting. Use meeting time only to discuss disagreements and explore different perspectives. Make final decisions separately from the meeting."
+    },
+    {
+      "id": "insight-ep-annie-duke-003",
+      "quote": "So a pre-mortem, it's great only if you set up kill criteria. Commit to actions that you're going to take if you see those signals.",
+      "timestamp": "00:00:28",
+      "context": "Distinguishing effective pre-mortems from ineffective ones",
+      "insight": "Pre-mortems are only valuable when they lead to pre-committed actions - identifying risks without committing to kill criteria doesn't change behavior",
+      "actionable": true,
+      "advice": "Run pre-mortems, but for each identified failure mode, establish a specific kill criterion (measurable signal) and a corresponding action. Write this down and review it regularly. Example: 'If Series A funding doesn't close in 16 months, we will shut down and pivot.'"
+    },
+    {
+      "id": "insight-ep-annie-duke-004",
+      "quote": "There is no such thing as a long feedback loop. And the way you choose to shorten the feedback loop is to say, what are the things that are correlated with the outcome that I eventually desire?",
+      "timestamp": "00:00:40",
+      "context": "Addressing the myth of long feedback loops in venture capital and product development",
+      "insight": "You can always shorten feedback loops by identifying intermediate signals correlated with your ultimate goal - you don't have to wait for the final outcome",
+      "actionable": true,
+      "advice": "For any long-term decision, identify necessary-but-not-sufficient factors and correlated signals. In startups: Series A funding, product-market fit signals, NRR/churn, talent retention. In product launches: usage metrics, retention curves, feature adoption. Track these early signals to get real feedback in months, not years."
+    },
+    {
+      "id": "insight-ep-annie-duke-005",
+      "quote": "Okay, so it depends on whether you actually do the things. I mean, I think that that's what the issue is... The problem is that the way that you can make decisions in order to be better at them is not supernatural to the way that humans make decisions.",
+      "timestamp": "00:20:59",
+      "context": "Addressing Kahneman's dilemma about knowing biases but not using that knowledge",
+      "insight": "Knowing about decision-making frameworks doesn't automatically improve decisions - you have to actually execute the discipline of using them",
+      "actionable": true,
+      "advice": "Build decision-making practices into your routines and systems. Don't rely on remembering frameworks in the moment. Create templates, checklists, and structured processes that force you to apply these principles even when under pressure."
+    },
+    {
+      "id": "insight-ep-annie-duke-006",
+      "quote": "I want people to stop talking to each other so much. When we think about what did people generally think the purpose of a meeting is, they think it's for three things. Discovery, which is I want to discover what your opinions are... It's so bad for decision-making, I can't even tell you. There's cross influence, the loudest person in the room tends to then have an outsized influence on the decision.",
+      "timestamp": "00:25:18",
+      "context": "Explaining the mechanics of why group discovery in meetings fails",
+      "insight": "Real-time group discussion for discovering opinions creates unavoidable biases: loud voices dominate, confidence overrides accuracy, and people conform to early opinon leaders",
+      "actionable": true,
+      "advice": "Use written, independent input for discovery. Send a structured request (brainstorm, forced ranking, point estimate) to team members. Request they not reply-all. Aggregate anonymously if possible. This ensures you see the true distribution of opinions without social pressure."
+    },
+    {
+      "id": "insight-ep-annie-duke-007",
+      "quote": "The best way to get somebody's opinion is independently of other people's opinions, independently asynchronously. So the way that I put is I want people to stop talking to each other so much.",
+      "timestamp": "00:25:18",
+      "context": "Core principle for eliciting accurate judgments",
+      "insight": "Independent, asynchronous input collection is the most effective way to avoid bias and capture the true range of team thinking",
+      "actionable": true,
+      "advice": "For product roadmap prioritization: send team members a list of features and ask them to force-rank with rationale. Use Google Forms so responses are private. For timelines: collect independent point estimate, lower bound, and upper bound from each person. Aggregate and discuss outliers."
+    },
+    {
+      "id": "insight-ep-annie-duke-008",
+      "quote": "It's the discovery piece, right? And we tend to do that in a group. And then there's discussion... the only thing that's ever supposed to happen in a meeting is the discussion part... the only thing that's ever supposed to happen in a meeting is the discussion part. So we should absolutely be coming together as human beings to discuss everybody's judgments and opinions and the way they're modeling the problem.",
+      "timestamp": "00:26:29",
+      "context": "Reiterating the proper role of meetings",
+      "insight": "Meetings excel at exploring disagreements and different mental models - this is their highest and best use",
+      "actionable": true,
+      "advice": "In meetings, focus discussion on areas of disagreement. When people agree, move on quickly. Use clarifying questions (not disagreeing or arguing). When two opinions differ significantly, explore the underlying assumptions and data that led to different conclusions."
+    },
+    {
+      "id": "insight-ep-annie-duke-009",
+      "quote": "So you come maybe you're like, 'Oh, I'm thinking about this differently and actually', but maybe you don't and you still believe a thing that's very different than me. And leadership has to say, 'That's fine. I've heard both of you and I know that this isn't going Annie's way. Nevertheless, trying to think about what all of our goals are, this is what the decision is going to be and it's totally fine that you ended up not agreeing with each other because it's reality.'",
+      "timestamp": "00:33:37",
+      "context": "Explaining how to handle disagreement without demanding alignment",
+      "insight": "Teams don't need to align or agree - they need to be heard, understood, and then accept the leader's decision",
+      "actionable": true,
+      "advice": "Use the word 'Nevertheless' when making decisions after discussion. Format: 'I've heard you. I understand. Nevertheless, here's what we're doing.' This acknowledges input while making clear that not everyone will get their preferred outcome - which is normal and healthy."
+    },
+    {
+      "id": "insight-ep-annie-duke-010",
+      "quote": "And the way that you would do it is, let me give you an example from a real one because that'll be easy. I did one of these discussions for a question about remote work... So I'm not agreeing or disagreeing with this, I'm just saying what somebody said. So now as a facilitator, I never say, 'Oh, I agree.' What I say is I just want to make sure I understood what you said and I reflect it back.",
+      "timestamp": "00:39:01",
+      "context": "Demonstrating the reflective listening technique for facilitating decisions",
+      "insight": "Active reflection validates people feel heard without biasing the discussion toward any particular view",
+      "actionable": true,
+      "advice": "When facilitating group decision discussions, respond to each person's opinion by reflecting it back: 'So what I heard you say is... Is that right?' This ensures clarity, makes people feel understood, and prevents you from inserting your own opinions into the discovery/discussion."
+    },
+    {
+      "id": "insight-ep-annie-duke-011",
+      "quote": "So it's probably why he said to ask me that question because I just really do. I mean, I have a very strong opinion about this. The feedback loop is as long as you choose it to be. And if I take that back to some of the things that I heard early on when I was talking to people, what I would say is that I think that there is a certain amount of psychological safety in allowing the feedback loop to stay long.",
+      "timestamp": "00:51:38",
+      "context": "Addressing why people resist shortening feedback loops",
+      "insight": "People psychologically prefer longer feedback loops because uncertainty allows them to maintain favorable self-images - faster feedback threatens this",
+      "actionable": true,
+      "advice": "Accept that shortening feedback loops (getting real data faster) will sometimes be uncomfortable - you might discover you're wrong. Build a culture that treats accurate feedback as a win, not a threat. Celebrate people who discover problems early because they've saved the company from worse outcomes."
+    },
+    {
+      "id": "insight-ep-annie-duke-012",
+      "quote": "It's very, very difficult for human beings to deal with feeling wrong in the moment, even if it helps them in the long run. It's just hard. And the tighter the feedback loop, the more that you risk finding out you are wrong in the short run... Most of us are like, 'No, I don't really want to make that trade. I'd rather just feel good now.'",
+      "timestamp": "00:54:45",
+      "context": "Explaining the psychological mechanism behind long feedback loops",
+      "insight": "The sunk cost bias and desire for immediate positive feelings override rational long-term improvement - this is universal human behavior",
+      "actionable": true,
+      "advice": "Design systems that make it safe to be wrong. Separate the person from the decision. Frame early findings as 'learning' not 'failure.' When a forecast or assumption proves wrong, treat it as valuable data that saves money/time/effort downstream."
+    },
+    {
+      "id": "insight-ep-annie-duke-013",
+      "quote": "The data is pretty strong that by the time you quit, it's probably long after the time that you should have. And it's really just because, look, when we start things, we're starting things under difficult circumstances... luck is going to have an influence on the outcome... And then there's also hidden information.",
+      "timestamp": "01:11:37",
+      "context": "Introducing why people consistently quit too late",
+      "insight": "We start decisions with high uncertainty, then use new information to decide whether to continue - but the same biases that made starting hard make quitting harder",
+      "actionable": true,
+      "advice": "Treat starting and quitting symmetrically. If you wouldn't start this project today with what you now know, then continuing is wasting resources. Ask regularly: 'If I knew what I know now, would I start this? If no, I should probably quit.'"
+    },
+    {
+      "id": "insight-ep-annie-duke-014",
+      "quote": "The issue is that sunk cost, which is when we walk away, we feel like we'll have wasted everything that we've already put into what we're doing. But of course, waste is a prospective problem, not a retrospective one... if you wouldn't start this today, then that means that everything that you're putting into this going forward is the actual waste, right?",
+      "timestamp": "01:13:35",
+      "context": "Explaining the sunk cost fallacy in quitting decisions",
+      "insight": "Continuing a failing project wastes future resources (the real waste), not past resources (already spent and irrelevant)",
+      "actionable": true,
+      "advice": "When deciding to continue a project, ignore what you've already spent. Ask: 'If I only looked forward from today, with no knowledge of past investment, would I start this?' If the answer is no, quitting saves money. Continuing is the waste, not quitting."
+    },
+    {
+      "id": "insight-ep-annie-duke-015",
+      "quote": "There's so many biases against stopping that by the time you're actually even thinking about quitting, it's probably already past the time that you ought to have quit. But we'll still continue on until we know for sure we didn't have any choice because here's the thing. When you walk away from something and someone's like, 'Hey, why'd you stop that?' And you're like, 'Oh, I had no choice' and you tell them everything that went wrong and, nobody's going to question you.",
+      "timestamp": "01:15:04",
+      "context": "Summarizing the full constellation of biases preventing early quitting",
+      "insight": "Multiple biases compound to delay quitting: sunk cost, identity/shame concerns, endowment, and social pressure only permit quitting when failure is obvious to everyone",
+      "actionable": true,
+      "advice": "Set quit criteria in advance (kill criteria) before you're emotionally invested. Example: 'We'll shut down this feature if it doesn't reach 10% daily active use by month 3.' This creates objective, pre-committed decision points that bypass emotional reasoning when the time comes."
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-thinking-in-bets-001",
+    "framework-decision-discovery-discuss-decide",
+    "framework-pre-mortem-with-kill-criteria",
+    "framework-independent-discovery",
+    "framework-nominal-group-technique",
+    "framework-psychological-feedback-loops",
+    "framework-quitting-decision-framework"
+  ],
+  "situations_addressed": [
+    "situation-improving-hiring-decisions",
+    "situation-product-roadmap-prioritization",
+    "situation-venture-capital-investment-decisions",
+    "situation-project-kill-decisions",
+    "situation-sales-deal-qualification",
+    "situation-remote-work-policy-decisions",
+    "situation-portfolio-company-evaluation",
+    "situation-startup-pivoting-decisions"
+  ],
+  "quotes_extracted": 15,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Annie Duke.txt",
+  "transcript_word_count": 17200,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T12:00:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-haiku-4-5",
+    "human_reviewed": false
+  }
+}

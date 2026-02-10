@@ -1,0 +1,166 @@
+{
+  "id": "ep-gibson-biddle",
+  "guest_id": "guest-gibson-biddle",
+  "guest_name": "Gibson Biddle",
+  "title": "Product Strategy: The DHM Framework for Delighting Customers",
+  "description": "Gibson Biddle, former VP of Product at Netflix and Chegg, shares his legendary DHM framework (Delight customers in Hard-to-copy, Margin-enhancing ways) and walks through real Netflix case studies on testing, prioritization, and strategic decision-making.",
+  "summary": "Gibson explains the DHM product strategy framework, why testing hypotheses is critical (Perfect New Release Test story), the danger of 'two percenters' (features only 2% use), how to evaluate high vs low stakes decisions (magnitude + reversibility), and real Netflix case studies including Netflix Party, auto-cancellation, ad-supported plans, and password sharing.",
+  "topics": [
+    "product-management",
+    "strategy",
+    "metrics",
+    "growth-marketing",
+    "decision-making",
+    "prioritization"
+  ],
+  "key_themes": [
+    {
+      "theme": "DHM Product Strategy Framework",
+      "description": "Delight customers in hard-to-copy, margin-enhancing ways - the core model for building sustainable competitive advantage",
+      "relevance_score": 0.98
+    },
+    {
+      "theme": "Test Hypotheses, Don't Build Blindly",
+      "description": "High-level product strategies are theories that must be validated - most will fail but the winners create massive value",
+      "relevance_score": 0.92
+    },
+    {
+      "theme": "Kill Two Percenters",
+      "description": "Features that only 2% of users engage with add complexity without enough value - scrape the barnacles",
+      "relevance_score": 0.88
+    },
+    {
+      "theme": "High vs Low Stakes Decisions",
+      "description": "Evaluate decisions by magnitude (impact) and reversibility (two-way vs one-way doors) to avoid analysis paralysis",
+      "relevance_score": 0.85
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-gibson-biddle-001",
+      "quote": "The only question he asked in the reference check was, 'Hey, John, is Gib ready? Can Gib delight customers?' That was the only question he asked.",
+      "timestamp": "00:08:42",
+      "context": "Reed Hastings doing a reference check on Gibson before hiring him at Netflix",
+      "insight": "Great product leaders obsess over delighting customers, not just satisfying them - it's the fundamental job",
+      "topics": ["product-management", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-002",
+      "quote": "I'll bet my paycheck that within a week, Blockbuster's going to put a happy family on their couch, too. And this is the problem of doing things that are easy to copy.",
+      "timestamp": "00:09:58",
+      "context": "Discussing why a feature that improved signups wasn't strategically valuable",
+      "insight": "Features that delight but are easy to copy don't create sustainable advantage - focus on hard-to-copy wins",
+      "topics": ["strategy", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-003",
+      "quote": "We saw a very small change in retention. That was the surprise. It went from something like 4.5% canceled in the control. It was 4.45. Very small change.",
+      "timestamp": "00:12:45",
+      "context": "Perfect New Release Test - giving customers next-day DVD delivery barely improved retention despite strong qualitative demand",
+      "insight": "What customers say they want doesn't always match what actually changes their behavior - test don't assume",
+      "topics": ["metrics", "product-management"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-004",
+      "quote": "We used this 2X word of mouth factor. Our theory was, if you loved it, Lenny, you'd tell your friends about it, you'd rave about it, and you'd bring in one other customer for free into Netflix.",
+      "timestamp": "00:13:37",
+      "context": "Explaining how Netflix valued retention improvements by modeling word-of-mouth effects",
+      "insight": "Word of mouth multiplies customer value - Netflix used 2X, Amazon uses 10X in their ROI calculations",
+      "topics": ["metrics", "growth-marketing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-005",
+      "quote": "I don't like two percenters. So if you find an idea that only works for 2% of your customers, now you're creating complexity, one more thing to choose... I would kill them.",
+      "timestamp": "00:24:10",
+      "context": "Explaining why Netflix didn't launch features with low engagement like Netflix Party",
+      "insight": "Features with <2% usage add complexity for everyone while serving almost no one - ruthlessly eliminate them",
+      "topics": ["product-management", "prioritization"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-006",
+      "quote": "Is this a high stakes decision or a low stakes decision? On magnitude, it's a hundred million against a company that's doing 30 billion in revenue. And then, it's reversible.",
+      "timestamp": "00:28:04",
+      "context": "Evaluating Netflix's decision to auto-cancel inactive users and lose $100M in revenue",
+      "insight": "Evaluate decisions by magnitude (relative impact) and reversibility (two-way doors) to overcome analysis paralysis",
+      "topics": ["decision-making", "leadership"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-007",
+      "quote": "He noticed half percent of the members weren't actually enjoying the service, like for a year. They clearly had entered their credit card, their email a year ago, and then just forgot that they had the service.",
+      "timestamp": "00:26:51",
+      "context": "Product manager Eddie Woo discovering inactive paying customers and choosing to auto-cancel them",
+      "insight": "Sometimes doing the right thing for customers (refunding inactive users) builds brand trust worth more than short-term revenue",
+      "topics": ["product-management", "ethics"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-008",
+      "quote": "Who's going to be the best in the world at advertising? Google. Who needs to be the best in the world of personalization? We do.",
+      "timestamp": "00:32:34",
+      "context": "Reed Hastings convincing Gibson to kill advertising to stay focused on personalization",
+      "insight": "Choose one thing to be the best in the world at - say no to revenue sources that dilute focus on your core advantage",
+      "topics": ["strategy", "focus"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-009",
+      "quote": "In this case, customer choice may be more important than the complexity of advertising, or maybe the stinky experience.",
+      "timestamp": "00:33:39",
+      "context": "Reed Hastings explaining why Netflix might add advertising despite valuing simplicity",
+      "insight": "Strategic principles must adapt to context - customer choice can outweigh simplicity when circumstances change",
+      "topics": ["strategy", "decision-making"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-010",
+      "quote": "We had gone all the way to four streams at the same time. And of course people shared outside the house, right? And by the way, I don't think Netflix was clear that you couldn't.",
+      "timestamp": "00:36:27",
+      "context": "Explaining how Netflix's multi-stream pricing created password sharing behavior",
+      "insight": "Features designed for one purpose (family viewing) can be used differently than intended - clarify boundaries early",
+      "topics": ["product-management", "communication"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-011",
+      "quote": "Build your personal board of directors. You're on mine, because I've been learning a lot about newsletters from you, right? Super helpful.",
+      "timestamp": "00:40:51",
+      "context": "Discussing how to learn from peers in the industry",
+      "insight": "Build a community of peers you can text for data and perspective - your personal board of directors accelerates learning",
+      "topics": ["career-development", "learning"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-gibson-biddle-012",
+      "quote": "Most all of the frameworks I use work for both consumer and B2B. The thing about consumer is, you're sort of trying to catch lightning in a bottle, right? Where enterprise, you can actually walk into it a little bit more thoughtfully.",
+      "timestamp": "00:18:55",
+      "context": "Discussing whether DHM framework applies to B2B products",
+      "insight": "Product strategy frameworks work across B2B and consumer - but B2B has more predictable paths while consumer requires lightning-in-a-bottle moments",
+      "topics": ["product-management", "strategy"],
+      "actionable": false
+    }
+  ],
+  "frameworks_mentioned": [
+    "framework-dhm-001"
+  ],
+  "situations_addressed": [
+    "situation-building-product-strategy",
+    "situation-prioritizing-features",
+    "situation-evaluating-ab-test-results"
+  ],
+  "quotes_extracted": 12,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Gibson Biddle.txt",
+  "transcript_word_count": 12638,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T20:30:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-sonnet-4.5",
+    "human_reviewed": false
+  }
+}

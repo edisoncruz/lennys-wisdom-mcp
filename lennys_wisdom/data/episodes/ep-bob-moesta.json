@@ -1,0 +1,216 @@
+{
+  "id": "ep-bob-moesta",
+  "guest_id": "guest-bob-moesta",
+  "guest_name": "Bob Moesta",
+  "title": "The Jobs to Be Done Framework with Bob Moesta",
+  "description": "Bob Moesta, co-creator of the Jobs to Be Done framework alongside Clay Christensen, explores how to understand why customers truly hire products, the four forces of progress, customer interview methodology, and how to apply jobs thinking to product innovation.",
+  "summary": "Bob Moesta breaks down the Jobs to Be Done framework, explaining that customers hire products to make progress in their lives, not buy features. He discusses the four forces (push, pull, anxiety, habit), the importance of understanding context over pain points, interview techniques based on criminal interrogation methods, why struggling moments precede all demand, and how to identify true competitors through customer job analysis rather than supply-side product comparison.",
+  "topics": [
+    "jobs-to-be-done",
+    "customer-research",
+    "product-development",
+    "interviewing-techniques",
+    "competitive-analysis",
+    "product-innovation",
+    "progress-framework",
+    "customer-insights",
+    "hiring-and-firing",
+    "behavioral-change"
+  ],
+  "key_themes": [
+    {
+      "theme": "Jobs to Be Done vs Pain and Gain",
+      "description": "The framework is about context and outcome, not just pain points. Context makes seemingly irrational decisions rational.",
+      "relevance_score": 0.99
+    },
+    {
+      "theme": "The Four Forces of Progress",
+      "description": "Push (dissatisfaction with status quo), Pull (attraction to new outcome), Anxiety (fear of new), Habit (comfort with present). All four must be understood for behavior change.",
+      "relevance_score": 0.98
+    },
+    {
+      "theme": "Struggling Moments as the Foundation",
+      "description": "All demand originates from struggling moments, not from products. Supply and demand are not as connected as traditionally taught.",
+      "relevance_score": 0.97
+    },
+    {
+      "theme": "Interview Methodology for Customer Research",
+      "description": "Based on criminal and intelligence interrogation techniques, focusing on actual behavior change stories rather than hypothetical wants. 10-12 interviews across two rounds beats 24+ random interviews.",
+      "relevance_score": 0.96
+    },
+    {
+      "theme": "Hire and Fire Criteria",
+      "description": "Understanding what customers are hiring your product to do and what they're firing (replacing or abandoning) is more important than traditional competitive analysis.",
+      "relevance_score": 0.95
+    },
+    {
+      "theme": "Demand-Side vs Supply-Side Thinking",
+      "description": "Competing Against Luck focuses on what customers actually want (demand) versus what products can do (supply). True competition comes from substitutes customers make, not product category competitors.",
+      "relevance_score": 0.94
+    },
+    {
+      "theme": "The Vector of Progress",
+      "description": "Progress is defined by context + outcome. Understanding where customers are starting from and what outcome they seek determines value perception, not just the end state.",
+      "relevance_score": 0.93
+    },
+    {
+      "theme": "Trade-offs in Product Design",
+      "description": "Most failed products failed because they made trade-offs the customer didn't agree with. Map your product's trade-offs to customer job trade-offs.",
+      "relevance_score": 0.92
+    }
+  ],
+  "key_insights": [
+    {
+      "id": "insight-ep-bob-moesta-001",
+      "quote": "People hire products, they don't buy them, they hire them to make progress in their life. And if we can take a step back and look at it, we see it in a very different light to realize at some point they're in some context and there's some outcome they want.",
+      "timestamp": "00:05:31",
+      "context": "Opening explanation of the core Jobs to Be Done principle after discussing the 'build it and they will come' fallacy",
+      "insight": "Customers select products as a means to achieve progress in their lives. This reframes product competition from feature comparison to understanding the progress being sought.",
+      "topics": ["jobs-to-be-done", "customer-research", "product-innovation"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-002",
+      "quote": "Snickers is about almost like a meal replacement and it's about the stomach is growling and things like that. And you start to realize that if they didn't have a Snickers, it competes with a protein drink, it competes with a Red Bull, a coffee. But a Milky Way typically is eaten after an emotional experience... it competes with things like a glass of wine, a brownie, and to be honest, a run.",
+      "timestamp": "00:05:51",
+      "context": "Classic example showing how understanding customer jobs reveals non-obvious competitors",
+      "insight": "True competitors emerge from understanding the job the customer is hiring the product for, not from supply-side category analysis. Snickers competes with meals and energy drinks, not other candy bars.",
+      "topics": ["jobs-to-be-done", "competitive-analysis", "customer-research"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-003",
+      "quote": "What I learned was that supply and demand are not as connected as everybody thinks. Most people think they create a product and that creates demand. But the real thing that if you start to study causality is that a struggling moment causes demand.",
+      "timestamp": "00:07:44",
+      "context": "Explaining the causality chain of product adoption using Southern New Hampshire University as example",
+      "insight": "Demand precedes products. Struggling moments create demand long before any solution exists. Find the struggle, don't try to create it with marketing.",
+      "topics": ["jobs-to-be-done", "customer-research", "product-development"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-004",
+      "quote": "If I talk about the struggling moments that I'm trying to go after, all of a sudden I realize that the roadmap is now when I get to that struggling moment, there's multiple ways I can solve it. So instead of just talking about features, it's typically talking about features for the first 90 to 120 days, but after that we just talk about struggling moments because that's the seed for real innovation.",
+      "timestamp": "00:09:06",
+      "context": "Describing how organizations like Intercom and Basecamp build roadmaps around struggling moments",
+      "insight": "Product roadmaps based on struggling moments (jobs) rather than features are more adaptable, innovative, and resilient to disruption than feature-driven roadmaps.",
+      "topics": ["product-development", "product-innovation", "jobs-to-be-done"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-005",
+      "quote": "The first thing is we don't talk to people who just want to. So there's some Product A is the old product and there's some Product B, which is the new product. And ultimately people don't randomly do anything. And so the real heart of the method of Jobs to Be Done is understanding the causation of what pushes people to say, 'Today's the day I got to do something different.'",
+      "timestamp": "00:11:42",
+      "context": "Introduction to the four forces of progress framework with visual diagram",
+      "insight": "All behavior change is caused. Understanding the push (dissatisfaction) that motivates change is foundational to applying Jobs to Be Done. Context always precedes action.",
+      "topics": ["jobs-to-be-done", "progress-framework", "behavioral-change"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-006",
+      "quote": "If F1 and F2 are not greater than F3 and F4, they're not going to move, they're not going to do anything. And so ultimately what we're doing is we're framing the market as a system of behavior. And most people say, 'If I just add more features, create more pull, people will buy.' It's not true. More features create actually anxiety, can it do all those things?",
+      "timestamp": "00:12:34",
+      "context": "Explaining the four forces equation: Push + Pull must overcome Anxiety + Habit",
+      "insight": "Product success requires balancing all four forces. Adding features increases anxiety. Reducing friction (F3 and F4) can be more effective than adding value. The system is in equilibrium.",
+      "topics": ["progress-framework", "product-development", "jobs-to-be-done"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-007",
+      "quote": "For example, one of the things I did is I built houses and one of the frictional points that people had in moving was the fact of moving house was basically packing all their stuff up and going somewhere. So what did I do? I actually raised the price of the condo, included moving in two years of storage as part of the deal with the condo because it's the frictional coefficient and I increased sales over 30%.",
+      "timestamp": "00:13:24",
+      "context": "Real estate example showing how reducing friction (F4) increases sales more than discounting",
+      "insight": "Reducing friction points in the customer journey can be more effective than competing on price. Identify and remove friction to enable customer progress.",
+      "topics": ["progress-framework", "product-development", "hiring-and-firing"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-008",
+      "quote": "Where is the customer in their timeline of buying? They looked at me like, 'Huh?' I said, 'No, no, you have a timeline of how you want to sell to them and after the demo you try to close, but what if they're actually in passive looking and want a demo to learn more?' And by doing that we actually then found out a way in which to give them three different demos, one about telling stories and giving them the background about the problem, another one about showing them all the alternatives, and then the last one is about basically giving them choices.",
+      "timestamp": "00:15:53",
+      "context": "Autobooks case study showing customer buying timeline: passive looking, active looking, deciding, etc.",
+      "insight": "Customers progress through buying phases. Match your sales process to where customers actually are in their journey, not where you want them to be. This increased Autobooks conversion 4x.",
+      "topics": ["customer-research", "hiring-and-firing", "customer-insights"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-009",
+      "quote": "The method itself is not based on traditional research or market research, asking people what it is. It's actually based on criminal and intelligence interrogation about telling me the story about how you decided today's the day I bought a house or today's the day I went back to school. It's not random.",
+      "timestamp": "00:17:31",
+      "context": "Explaining interview methodology fundamentals and why it differs from traditional market research",
+      "insight": "Jobs research requires studying actual behavior change through story interrogation, not surveys asking people what they want. Behavior always has causal logic; find it through deep conversation.",
+      "topics": ["customer-research", "interviewing-techniques", "jobs-to-be-done"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-010",
+      "quote": "From a causal mechanism perspective and from a set theory perspective, meaning the sets of pushes, pulls anxieties and habits, it starts to repeat around seven or eight. And I usually do 10, no more than 12. And I would rather do two rounds of 12 interviews than do 24 interviews.",
+      "timestamp": "00:29:07",
+      "context": "Addressing the question of how many interviews are statistically sufficient for Jobs research",
+      "insight": "10-12 interviews in two rounds is more effective than 24+ random interviews. Causal patterns and job clusters repeat after 8-12 interviews. Design your sampling strategically by market segments.",
+      "topics": ["customer-research", "interviewing-techniques", "jobs-to-be-done"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-011",
+      "quote": "What I say is I use the framework of pushes, pulls, anxieties and habits and say, 'What caused them to do this?' And everything else is just a conversation of trying to understand their story. And so part of this is being able to ask the questions around why, but you can't ask 'Why, why, why, why why?' It's like, 'Tell me more about that. Give me an example.'",
+      "timestamp": "00:30:18",
+      "context": "Best practices for asking questions in customer interviews without a discussion guide",
+      "insight": "Don't use rigid discussion guides. Use the four forces framework as a mental model, then let conversations flow naturally. Dig deeper with 'Tell me more' and examples rather than repeated 'why' questions.",
+      "topics": ["interviewing-techniques", "customer-research", "jobs-to-be-done"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-012",
+      "quote": "Just because people bitch about something doesn't mean they're going to do anything about it. This is where at Basecamp, we learned the fact that everybody said, 'Oh, if you had Gantt charts, I'm going to leave you if you don't put Gantt charts in' and as much as they all say they want it, they're not leaving because of it.",
+      "timestamp": "00:36:43",
+      "context": "Explaining why listening to what users say they want is unreliable; they must have actually tried to switch",
+      "insight": "Bitchin' ain't switchin'. People's stated desires don't predict behavior change. Only interview people who have actually made a switch or attempted one to understand real hiring/firing criteria.",
+      "topics": ["customer-research", "hiring-and-firing", "behavioral-change"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-013",
+      "quote": "Value is not just the outcome. Value also has where you start. So if I start here and I end here, I'm going to value it this much. But if I start down here and I go up here, I value it that much more. And most people say, 'If I just get them up here, they're really going to love it,' but some people say, 'I just want to get here.' And so you're overshooting it.",
+      "timestamp": "00:39:36",
+      "context": "Explaining the vector of progress and how starting point affects perceived value",
+      "insight": "Value perception depends on where customers start AND where they want to go. Overshooting customer needs (giving more than they want) causes price resistance. Match your solution to their vector of progress.",
+      "topics": ["jobs-to-be-done", "customer-insights", "progress-framework"],
+      "actionable": true
+    },
+    {
+      "id": "insight-ep-bob-moesta-014",
+      "quote": "The moment you hear a story and you go, 'I can't believe that,' nine times out of 10 it's because you don't have the rest of the story. And so part of it's being able to understand the rest of that context that would drive somebody to say, 'Why would somebody cut their arm off?' Well, if they're in this situation and this and this and this, there's nobody who would say they want to cut their arm off, but in certain situations you'll do it. And so that's what we're trying to do is find where will people change behavior?",
+      "timestamp": "00:00:00",
+      "context": "Opening statement about the biggest misconception: context makes irrational decisions rational",
+      "insight": "Seemingly irrational customer behavior always has logic when you understand the full context. Get the complete story before dismissing behavior as anomalous. Context is everything.",
+      "topics": ["jobs-to-be-done", "customer-research", "behavioral-change"],
+      "actionable": true
+    }
+  ],
+  "frameworks_mentioned": [
+    "Jobs to Be Done",
+    "Four Forces of Progress (Push, Pull, Anxiety, Habit)",
+    "Demand-Side Sales",
+    "Hire and Fire Criteria",
+    "Six Phases of Customer Journey (First Thought, Passive Looking, Active Looking, Deciding, First Use, Ongoing Use)"
+  ],
+  "situations_addressed": [
+    "situation-zero-to-one-product-development",
+    "situation-customer-interview-methodology",
+    "situation-understanding-true-competitors",
+    "situation-sales-process-design",
+    "situation-product-positioning",
+    "situation-identifying-real-product-demand",
+    "situation-friction-reduction-strategy"
+  ],
+  "quotes_extracted": 14,
+  "transcript_available": true,
+  "transcript_path": "transcripts/Bob Moesta.txt",
+  "transcript_word_count": 12146,
+  "extraction_metadata": {
+    "extracted_at": "2026-02-09T00:00:00Z",
+    "extraction_version": "1.0",
+    "llm_model": "claude-haiku-4-5",
+    "human_reviewed": false
+  }
+}

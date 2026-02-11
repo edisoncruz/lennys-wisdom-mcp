@@ -158,7 +158,6 @@ Contributions welcome! Please submit a Pull Request.
 
 ## Additional Resources
 
-- [Lenny's Newsletter](https://www.lennysnewsletter.com/)
-- [Lenny's Podcast](https://www.lennyspodcast.com/)
-- [Model Context Protocol](https://modelcontextprotocol.io)
-- [FastMCP Framework](https://gofastmcp.com)
+- **[Official Podcast Transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)** - Full verbatim transcripts of all episodes (maintained by Lenny's co-host)
+- **[Lenny's Podcast](https://www.lennyspodcast.com/)** - Subscribe to the podcast
+- **[Lenny's Newsletter](https://www.lennysnewsletter.com/)** - Product management insights and advice
